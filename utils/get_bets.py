@@ -40,7 +40,7 @@ def calcluate_ev(odds_json):
         games_averages[game["home_team"]] = av[0]
         games_averages[game["away_team"]] = av[1]
 
-    evs = {}
+    evs = [{}]
 
     # calculate the expected value of each bet by comparing the average odds to the actual odds on each book
     for game in odds_json:
@@ -55,9 +55,10 @@ def calcluate_ev(odds_json):
                 if line["name"] == game["away_team"]:
                     P_average = 1 / games_averages[game["away_team"]]
                     ev_away = (P_average * (line["price"] - 1)) - ((1 - P_average) * 1)
-    
-            evs[f"{book['key']} {game['home_team']}"] = ev_home
-            evs[f"{book['key']} {game['away_team']}"] = ev_away
+        
+                # append each team individually, the bookmaker, the expected value, and the bookmaker's odds
+                evs.append({"team": game["home_team"], "bookmaker": book["title"], "ev": ev_home, "odds": line["price"]})
+                evs.append({"team": game["away_team"], "bookmaker": book["title"], "ev": ev_away, "odds": line["price"]})
 
     return evs
 
@@ -79,10 +80,11 @@ def average_odds(game: dict):
 
     return (av_h2h_home, av_h2h_away)
 
+# returns list(dict)
 def compile_evs():
     baseball = get_lines_baseball()
     basketball = get_lines_basketball()
     hockey = get_lines_hockey()
 
-    compiled = {**baseball, **basketball, **hockey}
+    compiled = baseball + basketball + hockey
     return compiled
