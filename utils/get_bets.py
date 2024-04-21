@@ -88,3 +88,8 @@ def compile_evs():
 
     compiled = baseball + basketball + hockey
     return compiled
+
+if __name__ == "__main__":
+    compiled = compile_evs()
+    print(compiled)
+
