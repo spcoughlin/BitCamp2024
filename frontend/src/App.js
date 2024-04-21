@@ -3,6 +3,7 @@ import { BrowserRouter, Route, Routes, Navigate } from 'react-router-dom';
 import './App.css';
 import Home from './pages/Home';
 import About from './pages/About';
+import Settings from './pages/Settings';
 import MainBar from './components/Navbar';
 
 
@@ -29,6 +30,12 @@ export default function App() {
             <div>
               <MainBar />
               <About/>
+            </div>
+          } />
+          <Route path="/settings" element = {
+            <div>
+              <MainBar />
+              <Settings/>
             </div>
           } />
           <Route path="*" element = {

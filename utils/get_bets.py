@@ -1,95 +1,91 @@
 import json
-import requests
+import urllib3
 
-api_key = "X"
+# API key for accessing the Odds API
+api_key = "2fd5fee9325f737ec459adc38a559749"
+http = urllib3.PoolManager()
+
+def fetch_odds(sport_key):
+    # Build the URL for the specific sport and set up query parameters
+    url = f"https://api.the-odds-api.com/v4/sports/{sport_key}/odds"
+    params = {
+        "api_key": api_key,
+        "regions": "us",
+        "markets": "h2h"
+    }
+    encoded_params = urllib3.request.urlencode(params)
+    full_url = f"{url}?{encoded_params}"
+
+    # Make the GET request
+    response = http.request('GET', full_url)
+    if response.status == 200:
+        # Parse the JSON response into a Python dictionary
+        odds_json = json.loads(response.data.decode('utf-8'))["data"]
+        return calculate_ev(odds_json)
+    else:
+        # Handle errors
+        return f"Error fetching data: {response.status}"
 
 def get_lines_baseball():
-    # get the odds for baseball games today
-    sport_key = "baseball_mlb"
-    url = f"https://api.the-odds-api.com/v4/sports/{sport_key}/odds"
-    region = "us"
-    mkt = "h2h"
-    odds_response = requests.get(url, params={"api_key": api_key, "regions": region, "markets": mkt})
-    odds_json = json.loads(odds_response.text) # odds_json is a list(dict)
-    return calcluate_ev(odds_json)
+    # Fetch odds for MLB baseball games
+    return fetch_odds("baseball_mlb")
 
 def get_lines_basketball():
-    sport_key = "basketball_nba"
-    url = f"https://api.the-odds-api.com/v4/sports/{sport_key}/odds"
-    region = "us"
-    mkt = "h2h"
-    odds_response = requests.get(url, params={"api_key": api_key, "regions": region, "markets": mkt})
-    odds_json = json.loads(odds_response.text) # odds_json is a list(dict)
-    return calcluate_ev(odds_json)
+    # Fetch odds for NBA basketball games
+    return fetch_odds("basketball_nba")
 
 def get_lines_hockey():
-    sport_key = "icehockey_nhl"
-    url = f"https://api.the-odds-api.com/v4/sports/{sport_key}/odds"
-    region = "us"
-    mkt = "h2h"
-    odds_response = requests.get(url, params={"api_key": api_key, "regions": region, "markets": mkt})
-    odds_json = json.loads(odds_response.text) # odds_json is a list(dict)
-    return calcluate_ev(odds_json)
+    # Fetch odds for NHL hockey games
+    return fetch_odds("icehockey_nhl")
 
-# calculate the expected value of all bets for a sport in a day
-def calcluate_ev(odds_json):
-    # calculate the average odds for this game
-    games_averages = {}
+def calculate_ev(odds_json):
+    games_averages = {game["id"]: average_odds(game) for game in odds_json if "bookmakers" in game}
+
+    evs = []
+
     for game in odds_json:
-        av = average_odds(game)
-        games_averages[game["home_team"]] = av[0]
-        games_averages[game["away_team"]] = av[1]
-
-    evs = [{}]
-
-    # calculate the expected value of each bet by comparing the average odds to the actual odds on each book
-    for game in odds_json:
-        for book in game["bookmakers"]:
-            ev_home = 0
-            ev_away = 0
-            P_average = 0
-            for line in book["markets"][0]["outcomes"]:
-                if line["name"] == game["home_team"]:
-                    P_average = 1 / games_averages[game["home_team"]]
-                    ev_home = (P_average * (line["price"] - 1)) - ((1 - P_average) * 1)
-                if line["name"] == game["away_team"]:
-                    P_average = 1 / games_averages[game["away_team"]]
-                    ev_away = (P_average * (line["price"] - 1)) - ((1 - P_average) * 1)
-        
-                # append each team individually, the bookmaker, the expected value, and the bookmaker's odds
-                evs.append({"team": game["home_team"], "bookmaker": book["title"], "ev": ev_home, "odds": line["price"]})
-                evs.append({"team": game["away_team"], "bookmaker": book["title"], "ev": ev_away, "odds": line["price"]})
+        game_id = game["id"]
+        if game_id in games_averages:
+            av_home, av_away = games_averages[game_id]
+            for book in game["bookmakers"]:
+                for market in book.get("markets", []):
+                    for line in market.get("outcomes", []):
+                        if line["name"] == game["home_team"]:
+                            P_home = 1 / av_home if av_home > 0 else 0
+                            ev_home = (P_home * (line["price"] - 1)) - ((1 - P_home) * 1)
+                            evs.append({"team": game["home_team"], "bookmaker": book["title"], "ev": ev_home, "odds": line["price"]})
+                        elif line["name"] == game["away_team"]:
+                            P_away = 1 / av_away if av_away > 0 else 0
+                            ev_away = (P_away * (line["price"] - 1)) - ((1 - P_away) * 1)
+                            evs.append({"team": game["away_team"], "bookmaker": book["title"], "ev": ev_away, "odds": line["price"]})
 
     return evs
 
-# average the odds for h2h bets across sportsbooks
-# return (average home odds, average away odds)
-def average_odds(game: dict):
-    # calculate the average odds for h2h bets
-    av_h2h_home = 0
-    av_h2h_away = 0
-    for book in game["bookmakers"]:
-        for line in book["markets"][0]["outcomes"]:
-            if line["name"] == game["home_team"]:
-                av_h2h_home += line["price"]
-            if line["name"] == game["away_team"]:
-                av_h2h_away += line["price"]
+def average_odds(game):
+    total_h2h_home = total_h2h_away = count_home = count_away = 0
 
-    av_h2h_home /= len(game["bookmakers"])
-    av_h2h_away /= len(game["bookmakers"])
+    for book in game.get("bookmakers", []):
+        for market in book.get("markets", []):
+            for line in market.get("outcomes", []):
+                if line["name"] == game["home_team"]:
+                    total_h2h_home += line["price"]
+                    count_home += 1
+                elif line["name"] == game["away_team"]:
+                    total_h2h_away += line["price"]
+                    count_away += 1
+
+    av_h2h_home = total_h2h_home / count_home if count_home > 0 else 0
+    av_h2h_away = total_h2h_away / count_away if count_away > 0 else 0
 
     return (av_h2h_home, av_h2h_away)
 
-# returns list(dict)
+
 def compile_evs():
+    # Compile expected values from all sports into one list
     baseball = get_lines_baseball()
     basketball = get_lines_basketball()
     hockey = get_lines_hockey()
 
     compiled = baseball + basketball + hockey
     return compiled
-
-if __name__ == "__main__":
-    compiled = compile_evs()
-    print(compiled)
 

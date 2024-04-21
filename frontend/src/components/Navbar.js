@@ -13,13 +13,15 @@ function MainBar() {
   return (
     <Navbar className="bg-body-tertiary justify-content-between">
     <Container>
-        <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
+        <Navbar.Brand href="/">EV Betting App</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/about">About</Nav.Link>
-            <NavDropdown title="Dropdown" id="basic-nav-dropdown">
+            <Nav.Link href="/settings">Settings</Nav.Link>
+
+            {/* <NavDropdown title="Dropdown" id="basic-nav-dropdown">
               <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
               <NavDropdown.Item href="#action/3.2">
                 Another action
@@ -29,24 +31,10 @@ function MainBar() {
               <NavDropdown.Item href="#action/3.4">
                 Separated link
               </NavDropdown.Item>
-            </NavDropdown>
+            </NavDropdown> */}
           </Nav>
         </Navbar.Collapse>
         </Container>
-      <Form inline>
-        <Row>
-          <Col xs="auto">
-            <Form.Control
-              type="text"
-              placeholder="Search"
-              className=" mr-sm-2"
-            />
-          </Col>
-          <Col xs="auto">
-            <Button type="submit">Submit</Button>
-          </Col>
-        </Row>
-      </Form>
     </Navbar>
   );
 }

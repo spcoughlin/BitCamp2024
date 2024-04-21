@@ -1,166 +1,87 @@
 import React, { useState, useMemo } from 'react';
-import { useTable, useFilters, useSortBy, usePagination } from 'react-table';
+import { useNavigate } from "react-router-dom";
 
-export default function BetsTable({ data }) {
+// react bootstrap
+import Table from 'react-bootstrap/Table';
+import Button from 'react-bootstrap/Button';
 
-  // Create a state
-  const [filterInput, setFilterInput] = useState("");
+// this is a component that will display the bets in a table
+//table sortable by ev
 
-  // Update the state when input changes
-  const handleFilterChange = e => {
-    const value = e.target.value || undefined;
-    setFilter("name", value);
-    setFilterInput(value);
-  };
+// exclude bookmakers marked as false in session storage
 
-  const columns = useMemo(
-    () => [
-      {
-        Header: "Suggested Bets",
-        // First group columns
-        columns: [
-          {
-            Header: "Bet",
-            accessor: "bet",
-            sortType: "alphanumeric"
-          },
-          {
-            Header: "EV",
-            accessor: "ev",
-            sortType: "alphanumeric"
-          },
-          {
-            Header: "Best Odds",
-            accessor: "odds",
-            sortType: "alphanumeric"
-          },
-          {
-            Header: "Bookie",
-            accessor: "bookmaker",
-            sortType: "alphanumeric"
-          }
-        ]
-      }],
-    []
-  );
-  // Use the state and functions returned from useTable to build your UI
-  const {
-    getTableProps,
-    getTableBodyProps,
-    headerGroups,
-    setFilter,
-    prepareRow,
-    page, // Instead of using 'rows', we'll use page,
-    // which has only the rows for the active page
+export default function BetsTable() {
+    const navigate = useNavigate();
+    const [bets, setBets] = useState(JSON.parse(sessionStorage.getItem('bets')));
+    const [bookmakers, setBookmakers] = useState(JSON.parse(localStorage.getItem('bookmakers')));
 
-    // The rest of these things are super handy, too ;)
-    canPreviousPage,
-    canNextPage,
-    pageOptions,
-    pageCount,
-    gotoPage,
-    nextPage,
-    previousPage,
-    setPageSize,
-    state: { pageIndex, pageSize },
-  } = useTable(
-    {
-      columns,
-      data,
-      initialState: { pageIndex: 0 },
-    },
-    useFilters,
-    useSortBy,
-    usePagination
-  )
+    // if the user has not set any bookmakers, set all bookmakers to true
+    if (!bookmakers) {
+        const bets = JSON.parse(localStorage.getItem('bets'));
+        const bookmakers = new Set();
+        bets.forEach(bet => {
+            bookmakers.add(bet.bookmaker);
+        });
+        const bookmakersArray = Array.from(bookmakers);
+        const bookmakersJson = {};
+        bookmakersArray.forEach(bookmaker => {
+            bookmakersJson[bookmaker] = true;
+        });
+        localStorage.setItem('bookmakers', JSON.stringify(bookmakersJson));
+        setBookmakers(bookmakersJson);
+    }
 
-  // Render the UI for your table
-  return (
-    <>
-      <input
-        value={filterInput}
-        onChange={handleFilterChange}
-        placeholder={"Search by name"}
-      />
-      <div>
+    // if the user has not set any bookmakers, set all bookmakers to true
+    if (!bookmakers) {
+        const bets = JSON.parse(localStorage.getItem('bets'));
+        const bookmakers = new Set();
+        bets.forEach(bet => {
+            bookmakers.add(bet.bookmaker);
+        });
+        const bookmakersArray = Array.from(bookmakers);
+        const bookmakersJson = {};
+        bookmakersArray.forEach(bookmaker => {
+            bookmakersJson[bookmaker] = true;
+        });
+        localStorage.setItem('bookmakers', JSON.stringify(bookmakersJson));
+        setBookmakers(bookmakersJson);
+    }
 
-      </div>
-      <table {...getTableProps()}>
-        <thead>
-          {headerGroups.map(headerGroup => (
-            <tr {...headerGroup.getHeaderGroupProps()}>
-              {headerGroup.headers.map(column => (
-                <th {...column.getHeaderProps(column.getSortByToggleProps())}>
-                  {column.render('Header')}
-                  <span>
-                    {column.isSorted ? (column.isSortedDesc ? ' ↑' : ' ↓') : ''}
-                  </span>
-                </th>
-              ))}
-            </tr>
-          ))}
-        </thead>
-        <tbody {...getTableBodyProps()}>
-          {page.map((row, i) => {
-            prepareRow(row)
-            return (
-              <tr {...row.getRowProps()}>
-                {row.cells.map(cell => {
-                  return <td {...cell.getCellProps()}>{cell.render('Cell')}</td>
-                })}
-              </tr>
-            )
-          })}
-        </tbody>
-      </table>
-      {/* 
-          Pagination can be built however you'd like. 
-          This is just a very basic UI implementation:
-        */}
-      <div className="pagination">
-        <button onClick={() => gotoPage(0)} disabled={!canPreviousPage}>
-          {'<<'}
-        </button>{' '}
-        <button onClick={() => previousPage()} disabled={!canPreviousPage}>
-          {'<'}
-        </button>{' '}
-        <button onClick={() => nextPage()} disabled={!canNextPage}>
-          {'>'}
-        </button>{' '}
-        <button onClick={() => gotoPage(pageCount - 1)} disabled={!canNextPage}>
-          {'>>'}
-        </button>{' '}
-        <span>
-          Page{' '}
-          <strong>
-            {pageIndex + 1} of {pageOptions.length}
-          </strong>{' '}
-        </span>
-        <span>
-          | Go to page:{' '}
-          <input
-            type="number"
-            defaultValue={pageIndex + 1}
-            onChange={e => {
-              const page = e.target.value ? Number(e.target.value) - 1 : 0
-              gotoPage(page)
-            }}
-            style={{ width: '100px' }}
-          />
-        </span>{' '}
-        <select
-          value={pageSize}
-          onChange={e => {
-            setPageSize(Number(e.target.value))
-          }}
-        >
-          {[10, 20, 30, 40, 50].map(pageSize => (
-            <option key={pageSize} value={pageSize}>
-              Show {pageSize}
-            </option>
-          ))}
-        </select>
-      </div>
-    </>
-  )
+    // filter out the bookmakers that the user does not want to see
+    const filteredBets = useMemo(() => {
+        return bets.filter(bet => bookmakers[bet.bookmaker]);
+    }, [bets, bookmakers]);
+
+    // sort the bets by ev
+    const sortedBets = useMemo(() => {
+        return filteredBets.sort((a, b) => b.ev - a.ev);
+    }
+    , [filteredBets]);
+
+    return (
+        <div>
+            <Table striped bordered hover>
+                <thead>
+                    <tr>
+                        <th>Team</th>
+                        <th>Bookmaker</th>
+                        <th>EV</th>
+                        <th>Odds</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {sortedBets.map(bet => (
+                        <tr key={bet.ev}>
+                            <td>{bet.team}</td>
+                            <td>{bet.bookmaker}</td>
+                            <td>{bet.ev}</td>
+                            <td>{bet.odds}</td>
+
+                        </tr>
+                    ))}
+                </tbody>
+            </Table>
+            <Button onClick={() => navigate("/settings")}>Go to Settings</Button>
+        </div>
+    );
 }

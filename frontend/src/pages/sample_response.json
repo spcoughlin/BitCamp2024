@@ -1,0 +1,4291 @@
+[{
+    "team": "Boston Red Sox",
+    "bookmaker": "DraftKings",
+    "ev": 0.0007446016381237319,
+    "odds": 2.24
+}, {
+    "team": "Pittsburgh Pirates",
+    "bookmaker": "DraftKings",
+    "ev": -0.006896551724137889,
+    "odds": 1.68
+}, {
+    "team": "Boston Red Sox",
+    "bookmaker": "WynnBET",
+    "ev": -0.0037230081906179935,
+    "odds": 2.23
+}, {
+    "team": "Pittsburgh Pirates",
+    "bookmaker": "WynnBET",
+    "ev": 0.028571428571428636,
+    "odds": 1.74
+}, {
+    "team": "Boston Red Sox",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.008190618019359497,
+    "odds": 2.22
+}, {
+    "team": "Pittsburgh Pirates",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.012807881773398977,
+    "odds": 1.67
+}, {
+    "team": "Boston Red Sox",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.04095309009679826,
+    "odds": 2.33
+}, {
+    "team": "Pittsburgh Pirates",
+    "bookmaker": "BetOnline.ag",
+    "ev": -0.0009852216748768017,
+    "odds": 1.69
+}, {
+    "team": "Boston Red Sox",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.04095309009679826,
+    "odds": 2.33
+}, {
+    "team": "Pittsburgh Pirates",
+    "bookmaker": "LowVig.ag",
+    "ev": -0.0009852216748768017,
+    "odds": 1.69
+}, {
+    "team": "Boston Red Sox",
+    "bookmaker": "FanDuel",
+    "ev": -0.008190618019359497,
+    "odds": 2.22
+}, {
+    "team": "Pittsburgh Pirates",
+    "bookmaker": "FanDuel",
+    "ev": -0.0009852216748768017,
+    "odds": 1.69
+}, {
+    "team": "Boston Red Sox",
+    "bookmaker": "BetMGM",
+    "ev": -0.03946388682055102,
+    "odds": 2.15
+}, {
+    "team": "Pittsburgh Pirates",
+    "bookmaker": "BetMGM",
+    "ev": 0.010837438423645374,
+    "odds": 1.71
+}, {
+    "team": "Boston Red Sox",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.017125837676842837,
+    "odds": 2.2
+}, {
+    "team": "Pittsburgh Pirates",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.0009852216748768017,
+    "odds": 1.69
+}, {
+    "team": "Boston Red Sox",
+    "bookmaker": "Caesars",
+    "ev": -0.008190618019359497,
+    "odds": 2.22
+}, {
+    "team": "Pittsburgh Pirates",
+    "bookmaker": "Caesars",
+    "ev": -0.0009852216748768017,
+    "odds": 1.69
+}, {
+    "team": "Boston Red Sox",
+    "bookmaker": "Bovada",
+    "ev": -0.008190618019359497,
+    "odds": 2.22
+}, {
+    "team": "Pittsburgh Pirates",
+    "bookmaker": "Bovada",
+    "ev": -0.0009852216748768017,
+    "odds": 1.69
+}, {
+    "team": "Boston Red Sox",
+    "bookmaker": "Unibet",
+    "ev": 0.005212211466865235,
+    "odds": 2.25
+}, {
+    "team": "Pittsburgh Pirates",
+    "bookmaker": "Unibet",
+    "ev": -0.006896551724137889,
+    "odds": 1.68
+}, {
+    "team": "Boston Red Sox",
+    "bookmaker": "BetRivers",
+    "ev": 0.005212211466865235,
+    "odds": 2.25
+}, {
+    "team": "Pittsburgh Pirates",
+    "bookmaker": "BetRivers",
+    "ev": -0.006896551724137889,
+    "odds": 1.68
+}, {
+    "team": "Chicago White Sox",
+    "bookmaker": "DraftKings",
+    "ev": -0.00841716280024607,
+    "odds": 3.45
+}, {
+    "team": "Philadelphia Phillies",
+    "bookmaker": "DraftKings",
+    "ev": 0.0,
+    "odds": 1.33
+}, {
+    "team": "Chicago White Sox",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.005953602956272008,
+    "odds": 3.5
+}, {
+    "team": "Philadelphia Phillies",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.015037593984962405,
+    "odds": 1.35
+}, {
+    "team": "Chicago White Sox",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.005953602956272008,
+    "odds": 3.5
+}, {
+    "team": "Philadelphia Phillies",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.015037593984962405,
+    "odds": 1.35
+}, {
+    "team": "Chicago White Sox",
+    "bookmaker": "FanDuel",
+    "ev": -0.02278792855676426,
+    "odds": 3.4
+}, {
+    "team": "Philadelphia Phillies",
+    "bookmaker": "FanDuel",
+    "ev": 0.007518796992481203,
+    "odds": 1.34
+}, {
+    "team": "Chicago White Sox",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.019913775405460576,
+    "odds": 3.41
+}, {
+    "team": "Philadelphia Phillies",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.007518796992481203,
+    "odds": 1.32
+}, {
+    "team": "Chicago White Sox",
+    "bookmaker": "PointsBet (US)",
+    "ev": 0.005953602956272008,
+    "odds": 3.5
+}, {
+    "team": "Philadelphia Phillies",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.015037593984962433,
+    "odds": 1.31
+}, {
+    "team": "Chicago White Sox",
+    "bookmaker": "Caesars",
+    "ev": -0.02278792855676426,
+    "odds": 3.4
+}, {
+    "team": "Philadelphia Phillies",
+    "bookmaker": "Caesars",
+    "ev": 0.0,
+    "odds": 1.33
+}, {
+    "team": "Chicago White Sox",
+    "bookmaker": "Bovada",
+    "ev": 0.020324368712790197,
+    "odds": 3.55
+}, {
+    "team": "Philadelphia Phillies",
+    "bookmaker": "Bovada",
+    "ev": -0.015037593984962433,
+    "odds": 1.31
+}, {
+    "team": "Chicago White Sox",
+    "bookmaker": "WynnBET",
+    "ev": 0.005953602956272008,
+    "odds": 3.5
+}, {
+    "team": "Philadelphia Phillies",
+    "bookmaker": "WynnBET",
+    "ev": 0.022556390977443608,
+    "odds": 1.36
+}, {
+    "team": "Chicago White Sox",
+    "bookmaker": "BetUS",
+    "ev": -0.02278792855676426,
+    "odds": 3.4
+}, {
+    "team": "Philadelphia Phillies",
+    "bookmaker": "BetUS",
+    "ev": 0.0,
+    "odds": 1.33
+}, {
+    "team": "Chicago White Sox",
+    "bookmaker": "BetMGM",
+    "ev": -0.02278792855676426,
+    "odds": 3.4
+}, {
+    "team": "Philadelphia Phillies",
+    "bookmaker": "BetMGM",
+    "ev": 0.0,
+    "odds": 1.33
+}, {
+    "team": "Chicago White Sox",
+    "bookmaker": "SuperBook",
+    "ev": 0.034695134469308386,
+    "odds": 3.6
+}, {
+    "team": "Philadelphia Phillies",
+    "bookmaker": "SuperBook",
+    "ev": -0.007518796992481203,
+    "odds": 1.32
+}, {
+    "team": "Chicago White Sox",
+    "bookmaker": "Unibet",
+    "ev": 0.020324368712790197,
+    "odds": 3.55
+}, {
+    "team": "Philadelphia Phillies",
+    "bookmaker": "Unibet",
+    "ev": -0.007518796992481203,
+    "odds": 1.32
+}, {
+    "team": "Chicago White Sox",
+    "bookmaker": "BetRivers",
+    "ev": 0.020324368712790197,
+    "odds": 3.55
+}, {
+    "team": "Philadelphia Phillies",
+    "bookmaker": "BetRivers",
+    "ev": -0.007518796992481203,
+    "odds": 1.32
+}, {
+    "team": "Houston Astros",
+    "bookmaker": "DraftKings",
+    "ev": -0.006535947712418111,
+    "odds": 1.52
+}, {
+    "team": "Washington Nationals",
+    "bookmaker": "DraftKings",
+    "ev": -0.0062790062790063494,
+    "odds": 2.6
+}, {
+    "team": "Houston Astros",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.0065359477124184995,
+    "odds": 1.54
+}, {
+    "team": "Washington Nationals",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.02811902811902789,
+    "odds": 2.69
+}, {
+    "team": "Houston Astros",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.0065359477124184995,
+    "odds": 1.54
+}, {
+    "team": "Washington Nationals",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.02811902811902789,
+    "odds": 2.69
+}, {
+    "team": "Houston Astros",
+    "bookmaker": "FanDuel",
+    "ev": -0.013071895424836388,
+    "odds": 1.51
+}, {
+    "team": "Washington Nationals",
+    "bookmaker": "FanDuel",
+    "ev": 0.009009009009008917,
+    "odds": 2.64
+}, {
+    "team": "Houston Astros",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.006535947712418111,
+    "odds": 1.52
+}, {
+    "team": "Washington Nationals",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.025389025389025655,
+    "odds": 2.55
+}, {
+    "team": "Houston Astros",
+    "bookmaker": "PointsBet (US)",
+    "ev": 2.220446049250313e-16,
+    "odds": 1.53
+}, {
+    "team": "Washington Nationals",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.0062790062790063494,
+    "odds": 2.6
+}, {
+    "team": "Houston Astros",
+    "bookmaker": "BetUS",
+    "ev": 0.013071895424836832,
+    "odds": 1.55
+}, {
+    "team": "Washington Nationals",
+    "bookmaker": "BetUS",
+    "ev": 0.005187005187004989,
+    "odds": 2.63
+}, {
+    "team": "Houston Astros",
+    "bookmaker": "Caesars",
+    "ev": 2.220446049250313e-16,
+    "odds": 1.53
+}, {
+    "team": "Washington Nationals",
+    "bookmaker": "Caesars",
+    "ev": -0.013923013923014094,
+    "odds": 2.58
+}, {
+    "team": "Houston Astros",
+    "bookmaker": "Bovada",
+    "ev": -0.006535947712418111,
+    "odds": 1.52
+}, {
+    "team": "Washington Nationals",
+    "bookmaker": "Bovada",
+    "ev": -0.01774501774501791,
+    "odds": 2.57
+}, {
+    "team": "Houston Astros",
+    "bookmaker": "WynnBET",
+    "ev": 0.01960784313725511,
+    "odds": 1.56
+}, {
+    "team": "Washington Nationals",
+    "bookmaker": "WynnBET",
+    "ev": 0.005187005187004989,
+    "odds": 2.63
+}, {
+    "team": "Houston Astros",
+    "bookmaker": "BetMGM",
+    "ev": 2.220446049250313e-16,
+    "odds": 1.53
+}, {
+    "team": "Washington Nationals",
+    "bookmaker": "BetMGM",
+    "ev": -0.025389025389025655,
+    "odds": 2.55
+}, {
+    "team": "Houston Astros",
+    "bookmaker": "SuperBook",
+    "ev": 0.026143790849673443,
+    "odds": 1.57
+}, {
+    "team": "Washington Nationals",
+    "bookmaker": "SuperBook",
+    "ev": -0.0062790062790063494,
+    "odds": 2.6
+}, {
+    "team": "Houston Astros",
+    "bookmaker": "Unibet",
+    "ev": -0.01960784313725472,
+    "odds": 1.5
+}, {
+    "team": "Washington Nationals",
+    "bookmaker": "Unibet",
+    "ev": 0.012831012831012623,
+    "odds": 2.65
+}, {
+    "team": "Houston Astros",
+    "bookmaker": "BetRivers",
+    "ev": -0.01960784313725472,
+    "odds": 1.5
+}, {
+    "team": "Washington Nationals",
+    "bookmaker": "BetRivers",
+    "ev": 0.012831012831012623,
+    "odds": 2.65
+}, {
+    "team": "New York Yankees",
+    "bookmaker": "DraftKings",
+    "ev": -0.00561797752808979,
+    "odds": 1.77
+}, {
+    "team": "Tampa Bay Rays",
+    "bookmaker": "DraftKings",
+    "ev": -0.006421088205474712,
+    "odds": 2.1
+}, {
+    "team": "New York Yankees",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.01685393258426976,
+    "odds": 1.81
+}, {
+    "team": "Tampa Bay Rays",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.012504224400135322,
+    "odds": 2.14
+}, {
+    "team": "New York Yankees",
+    "bookmaker": "BetUS",
+    "ev": 1.1102230246251565e-16,
+    "odds": 1.78
+}, {
+    "team": "Tampa Bay Rays",
+    "bookmaker": "BetUS",
+    "ev": 0.03616086515714767,
+    "odds": 2.19
+}, {
+    "team": "New York Yankees",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.01685393258426976,
+    "odds": 1.81
+}, {
+    "team": "Tampa Bay Rays",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.012504224400135322,
+    "odds": 2.14
+}, {
+    "team": "New York Yankees",
+    "bookmaker": "FanDuel",
+    "ev": 0.005617977528089957,
+    "odds": 1.79
+}, {
+    "team": "Tampa Bay Rays",
+    "bookmaker": "FanDuel",
+    "ev": -0.015883744508279785,
+    "odds": 2.08
+}, {
+    "team": "New York Yankees",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.011235955056179692,
+    "odds": 1.76
+}, {
+    "team": "Tampa Bay Rays",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.02061507265968232,
+    "odds": 2.07
+}, {
+    "team": "New York Yankees",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.00561797752808979,
+    "odds": 1.77
+}, {
+    "team": "Tampa Bay Rays",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.006421088205474712,
+    "odds": 2.1
+}, {
+    "team": "New York Yankees",
+    "bookmaker": "Caesars",
+    "ev": -0.00561797752808979,
+    "odds": 1.77
+}, {
+    "team": "Tampa Bay Rays",
+    "bookmaker": "Caesars",
+    "ev": -0.006421088205474712,
+    "odds": 2.1
+}, {
+    "team": "New York Yankees",
+    "bookmaker": "Bovada",
+    "ev": -0.00561797752808979,
+    "odds": 1.77
+}, {
+    "team": "Tampa Bay Rays",
+    "bookmaker": "Bovada",
+    "ev": -0.015883744508279785,
+    "odds": 2.08
+}, {
+    "team": "New York Yankees",
+    "bookmaker": "WynnBET",
+    "ev": -0.00561797752808979,
+    "odds": 1.77
+}, {
+    "team": "Tampa Bay Rays",
+    "bookmaker": "WynnBET",
+    "ev": 0.031429537005745356,
+    "odds": 2.18
+}, {
+    "team": "New York Yankees",
+    "bookmaker": "BetMGM",
+    "ev": -0.022471910112359494,
+    "odds": 1.74
+}, {
+    "team": "Tampa Bay Rays",
+    "bookmaker": "BetMGM",
+    "ev": -0.006421088205474712,
+    "odds": 2.1
+}, {
+    "team": "New York Yankees",
+    "bookmaker": "SuperBook",
+    "ev": 0.011235955056179858,
+    "odds": 1.8
+}, {
+    "team": "Tampa Bay Rays",
+    "bookmaker": "SuperBook",
+    "ev": 0.017235552551537636,
+    "odds": 2.15
+}, {
+    "team": "New York Yankees",
+    "bookmaker": "Unibet",
+    "ev": 0.005617977528089957,
+    "odds": 1.79
+}, {
+    "team": "Tampa Bay Rays",
+    "bookmaker": "Unibet",
+    "ev": -0.015883744508279785,
+    "odds": 2.08
+}, {
+    "team": "New York Yankees",
+    "bookmaker": "BetRivers",
+    "ev": 0.005617977528089957,
+    "odds": 1.79
+}, {
+    "team": "Tampa Bay Rays",
+    "bookmaker": "BetRivers",
+    "ev": -0.015883744508279785,
+    "odds": 2.08
+}, {
+    "team": "Cincinnati Reds",
+    "bookmaker": "DraftKings",
+    "ev": -0.007334963325183463,
+    "odds": 1.74
+}, {
+    "team": "Los Angeles Angels",
+    "bookmaker": "DraftKings",
+    "ev": -0.005312084993359778,
+    "odds": 2.14
+}, {
+    "team": "Cincinnati Reds",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.004074979625101838,
+    "odds": 1.76
+}, {
+    "team": "Los Angeles Angels",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.027224435590969542,
+    "odds": 2.21
+}, {
+    "team": "Cincinnati Reds",
+    "bookmaker": "FanDuel",
+    "ev": 0.02118989405052968,
+    "odds": 1.79
+}, {
+    "team": "Los Angeles Angels",
+    "bookmaker": "FanDuel",
+    "ev": -0.033200531208499195,
+    "odds": 2.08
+}, {
+    "team": "Cincinnati Reds",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.007334963325183463,
+    "odds": 1.74
+}, {
+    "team": "Los Angeles Angels",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.019256308100929598,
+    "odds": 2.11
+}, {
+    "team": "Cincinnati Reds",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.024449877750611304,
+    "odds": 1.71
+}, {
+    "team": "Los Angeles Angels",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.0006640106241699861,
+    "odds": 2.15
+}, {
+    "team": "Cincinnati Reds",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.004074979625101838,
+    "odds": 1.76
+}, {
+    "team": "Los Angeles Angels",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.027224435590969542,
+    "odds": 2.21
+}, {
+    "team": "Cincinnati Reds",
+    "bookmaker": "Caesars",
+    "ev": -0.007334963325183463,
+    "odds": 1.74
+}, {
+    "team": "Los Angeles Angels",
+    "bookmaker": "Caesars",
+    "ev": -0.0006640106241699861,
+    "odds": 2.15
+}, {
+    "team": "Cincinnati Reds",
+    "bookmaker": "Bovada",
+    "ev": -0.0016299918500408128,
+    "odds": 1.75
+}, {
+    "team": "Los Angeles Angels",
+    "bookmaker": "Bovada",
+    "ev": -0.014608233731739584,
+    "odds": 2.12
+}, {
+    "team": "Cincinnati Reds",
+    "bookmaker": "WynnBET",
+    "ev": 0.009779951100244433,
+    "odds": 1.77
+}, {
+    "team": "Los Angeles Angels",
+    "bookmaker": "WynnBET",
+    "ev": 0.013280212483399834,
+    "odds": 2.18
+}, {
+    "team": "Cincinnati Reds",
+    "bookmaker": "BetUS",
+    "ev": 0.004074979625101838,
+    "odds": 1.76
+}, {
+    "team": "Los Angeles Angels",
+    "bookmaker": "BetUS",
+    "ev": 0.031872509960159556,
+    "odds": 2.22
+}, {
+    "team": "Cincinnati Reds",
+    "bookmaker": "BetMGM",
+    "ev": -0.024449877750611304,
+    "odds": 1.71
+}, {
+    "team": "Los Angeles Angels",
+    "bookmaker": "BetMGM",
+    "ev": -0.0006640106241699861,
+    "odds": 2.15
+}, {
+    "team": "Cincinnati Reds",
+    "bookmaker": "SuperBook",
+    "ev": 0.009779951100244433,
+    "odds": 1.77
+}, {
+    "team": "Los Angeles Angels",
+    "bookmaker": "SuperBook",
+    "ev": 0.02257636122177975,
+    "odds": 2.2
+}, {
+    "team": "Cincinnati Reds",
+    "bookmaker": "Unibet",
+    "ev": 0.009779951100244433,
+    "odds": 1.77
+}, {
+    "team": "Los Angeles Angels",
+    "bookmaker": "Unibet",
+    "ev": -0.02390438247011939,
+    "odds": 2.1
+}, {
+    "team": "Cincinnati Reds",
+    "bookmaker": "BetRivers",
+    "ev": 0.009779951100244433,
+    "odds": 1.77
+}, {
+    "team": "Los Angeles Angels",
+    "bookmaker": "BetRivers",
+    "ev": -0.02390438247011939,
+    "odds": 2.1
+}, {
+    "team": "Cleveland Guardians",
+    "bookmaker": "DraftKings",
+    "ev": -0.005142589995324798,
+    "odds": 1.52
+}, {
+    "team": "Oakland Athletics",
+    "bookmaker": "DraftKings",
+    "ev": -0.009254218835057282,
+    "odds": 2.6
+}, {
+    "team": "Cleveland Guardians",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.014492753623188526,
+    "odds": 1.55
+}, {
+    "team": "Oakland Athletics",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.013609145345672147,
+    "odds": 2.66
+}, {
+    "team": "Cleveland Guardians",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.014492753623188526,
+    "odds": 1.55
+}, {
+    "team": "Oakland Athletics",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.013609145345672147,
+    "odds": 2.66
+}, {
+    "team": "Cleveland Guardians",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.005142589995324798,
+    "odds": 1.52
+}, {
+    "team": "Oakland Athletics",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.03211758301578671,
+    "odds": 2.54
+}, {
+    "team": "Cleveland Guardians",
+    "bookmaker": "PointsBet (US)",
+    "ev": 0.0014025245441796064,
+    "odds": 1.53
+}, {
+    "team": "Oakland Athletics",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.009254218835057282,
+    "odds": 2.6
+}, {
+    "team": "Cleveland Guardians",
+    "bookmaker": "FanDuel",
+    "ev": 0.021037868162692985,
+    "odds": 1.56
+}, {
+    "team": "Oakland Athletics",
+    "bookmaker": "FanDuel",
+    "ev": -0.039738704409363224,
+    "odds": 2.52
+}, {
+    "team": "Cleveland Guardians",
+    "bookmaker": "Caesars",
+    "ev": 0.0014025245441796064,
+    "odds": 1.53
+}, {
+    "team": "Oakland Athletics",
+    "bookmaker": "Caesars",
+    "ev": -0.016875340228633795,
+    "odds": 2.58
+}, {
+    "team": "Cleveland Guardians",
+    "bookmaker": "Bovada",
+    "ev": 0.0014025245441796064,
+    "odds": 1.53
+}, {
+    "team": "Oakland Athletics",
+    "bookmaker": "Bovada",
+    "ev": -0.024496461622210308,
+    "odds": 2.56
+}, {
+    "team": "Cleveland Guardians",
+    "bookmaker": "WynnBET",
+    "ev": 0.0014025245441796064,
+    "odds": 1.53
+}, {
+    "team": "Oakland Athletics",
+    "bookmaker": "WynnBET",
+    "ev": 0.040283070223189776,
+    "odds": 2.73
+}, {
+    "team": "Cleveland Guardians",
+    "bookmaker": "BetUS",
+    "ev": -0.011687704534829257,
+    "odds": 1.51
+}, {
+    "team": "Oakland Athletics",
+    "bookmaker": "BetUS",
+    "ev": 0.04790419161676629,
+    "odds": 2.75
+}, {
+    "team": "Cleveland Guardians",
+    "bookmaker": "BetMGM",
+    "ev": 0.0014025245441796064,
+    "odds": 1.53
+}, {
+    "team": "Oakland Athletics",
+    "bookmaker": "BetMGM",
+    "ev": -0.02830702231899862,
+    "odds": 2.55
+}, {
+    "team": "Cleveland Guardians",
+    "bookmaker": "SuperBook",
+    "ev": 0.0014025245441796064,
+    "odds": 1.53
+}, {
+    "team": "Oakland Athletics",
+    "bookmaker": "SuperBook",
+    "ev": 0.02504082743603686,
+    "odds": 2.69
+}, {
+    "team": "Cleveland Guardians",
+    "bookmaker": "Unibet",
+    "ev": -0.018232819074333717,
+    "odds": 1.5
+}, {
+    "team": "Oakland Athletics",
+    "bookmaker": "Unibet",
+    "ev": 0.009798584648883835,
+    "odds": 2.65
+}, {
+    "team": "Cleveland Guardians",
+    "bookmaker": "BetRivers",
+    "ev": -0.018232819074333717,
+    "odds": 1.5
+}, {
+    "team": "Oakland Athletics",
+    "bookmaker": "BetRivers",
+    "ev": 0.009798584648883835,
+    "odds": 2.65
+}, {
+    "team": "Baltimore Orioles",
+    "bookmaker": "DraftKings",
+    "ev": -0.00863557858376518,
+    "odds": 2.05
+}, {
+    "team": "Kansas City Royals",
+    "bookmaker": "DraftKings",
+    "ev": -0.007092198581560238,
+    "odds": 1.8
+}, {
+    "team": "Baltimore Orioles",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.005872193436960327,
+    "odds": 2.08
+}, {
+    "team": "Kansas City Royals",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.020488573680063127,
+    "odds": 1.85
+}, {
+    "team": "Baltimore Orioles",
+    "bookmaker": "FanDuel",
+    "ev": -0.03281519861830745,
+    "odds": 2.0
+}, {
+    "team": "Kansas City Royals",
+    "bookmaker": "FanDuel",
+    "ev": 0.020488573680063127,
+    "odds": 1.85
+}, {
+    "team": "Baltimore Orioles",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.018307426597582166,
+    "odds": 2.03
+}, {
+    "team": "Kansas City Royals",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.012608353033884911,
+    "odds": 1.79
+}, {
+    "team": "Baltimore Orioles",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.005872193436960327,
+    "odds": 2.08
+}, {
+    "team": "Kansas City Royals",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.020488573680063127,
+    "odds": 1.85
+}, {
+    "team": "Baltimore Orioles",
+    "bookmaker": "Caesars",
+    "ev": -0.00863557858376518,
+    "odds": 2.05
+}, {
+    "team": "Kansas City Royals",
+    "bookmaker": "Caesars",
+    "ev": -0.007092198581560238,
+    "odds": 1.8
+}, {
+    "team": "Baltimore Orioles",
+    "bookmaker": "Bovada",
+    "ev": -0.00863557858376518,
+    "odds": 2.05
+}, {
+    "team": "Kansas City Royals",
+    "bookmaker": "Bovada",
+    "ev": -0.007092198581560238,
+    "odds": 1.8
+}, {
+    "team": "Baltimore Orioles",
+    "bookmaker": "WynnBET",
+    "ev": 0.015544041450777257,
+    "odds": 2.1
+}, {
+    "team": "Kansas City Royals",
+    "bookmaker": "WynnBET",
+    "ev": 0.00945626477541378,
+    "odds": 1.83
+}, {
+    "team": "Baltimore Orioles",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.00863557858376518,
+    "odds": 2.05
+}, {
+    "team": "Kansas City Royals",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.007092198581560238,
+    "odds": 1.8
+}, {
+    "team": "Baltimore Orioles",
+    "bookmaker": "BetUS",
+    "ev": 0.03972366148531947,
+    "odds": 2.15
+}, {
+    "team": "Kansas City Royals",
+    "bookmaker": "BetUS",
+    "ev": -0.007092198581560238,
+    "odds": 1.8
+}, {
+    "team": "Baltimore Orioles",
+    "bookmaker": "BetMGM",
+    "ev": -0.00863557858376518,
+    "odds": 2.05
+}, {
+    "team": "Kansas City Royals",
+    "bookmaker": "BetMGM",
+    "ev": -0.007092198581560238,
+    "odds": 1.8
+}, {
+    "team": "Baltimore Orioles",
+    "bookmaker": "SuperBook",
+    "ev": 0.015544041450777257,
+    "odds": 2.1
+}, {
+    "team": "Kansas City Royals",
+    "bookmaker": "SuperBook",
+    "ev": 0.00945626477541378,
+    "odds": 1.83
+}, {
+    "team": "Baltimore Orioles",
+    "bookmaker": "Unibet",
+    "ev": 0.005872193436960327,
+    "odds": 2.08
+}, {
+    "team": "Kansas City Royals",
+    "bookmaker": "Unibet",
+    "ev": -0.012608353033884911,
+    "odds": 1.79
+}, {
+    "team": "Baltimore Orioles",
+    "bookmaker": "BetRivers",
+    "ev": 0.005872193436960327,
+    "odds": 2.08
+}, {
+    "team": "Kansas City Royals",
+    "bookmaker": "BetRivers",
+    "ev": -0.012608353033884911,
+    "odds": 1.79
+}, {
+    "team": "Detroit Tigers",
+    "bookmaker": "DraftKings",
+    "ev": 0.0011115227862169563,
+    "odds": 1.93
+}, {
+    "team": "Minnesota Twins",
+    "bookmaker": "DraftKings",
+    "ev": -0.017452655031563402,
+    "odds": 1.89
+}, {
+    "team": "Detroit Tigers",
+    "bookmaker": "BetUS",
+    "ev": 0.011485735457576751,
+    "odds": 1.95
+}, {
+    "team": "Minnesota Twins",
+    "bookmaker": "BetUS",
+    "ev": 0.013739324173783818,
+    "odds": 1.95
+}, {
+    "team": "Detroit Tigers",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.01667284179325662,
+    "odds": 1.96
+}, {
+    "team": "Minnesota Twins",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.008540660972892633,
+    "odds": 1.94
+}, {
+    "team": "Detroit Tigers",
+    "bookmaker": "FanDuel",
+    "ev": 0.006298629121896826,
+    "odds": 1.94
+}, {
+    "team": "Minnesota Twins",
+    "bookmaker": "FanDuel",
+    "ev": -0.007055328629780977,
+    "odds": 1.91
+}, {
+    "team": "Detroit Tigers",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.009262689885142839,
+    "odds": 1.91
+}, {
+    "team": "Minnesota Twins",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.012253991830672162,
+    "odds": 1.9
+}, {
+    "team": "Detroit Tigers",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.01667284179325662,
+    "odds": 1.96
+}, {
+    "team": "Minnesota Twins",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.008540660972892633,
+    "odds": 1.94
+}, {
+    "team": "Detroit Tigers",
+    "bookmaker": "Caesars",
+    "ev": -0.009262689885142839,
+    "odds": 1.91
+}, {
+    "team": "Minnesota Twins",
+    "bookmaker": "Caesars",
+    "ev": -0.007055328629780977,
+    "odds": 1.91
+}, {
+    "team": "Detroit Tigers",
+    "bookmaker": "Bovada",
+    "ev": -0.004075583549462913,
+    "odds": 1.92
+}, {
+    "team": "Minnesota Twins",
+    "bookmaker": "Bovada",
+    "ev": -0.012253991830672162,
+    "odds": 1.9
+}, {
+    "team": "Detroit Tigers",
+    "bookmaker": "WynnBET",
+    "ev": 0.011485735457576751,
+    "odds": 1.95
+}, {
+    "team": "Minnesota Twins",
+    "bookmaker": "WynnBET",
+    "ev": 0.013739324173783818,
+    "odds": 1.95
+}, {
+    "team": "Detroit Tigers",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.009262689885142839,
+    "odds": 1.91
+}, {
+    "team": "Minnesota Twins",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.007055328629780977,
+    "odds": 1.91
+}, {
+    "team": "Detroit Tigers",
+    "bookmaker": "BetMGM",
+    "ev": -0.009262689885142839,
+    "odds": 1.91
+}, {
+    "team": "Minnesota Twins",
+    "bookmaker": "BetMGM",
+    "ev": -0.007055328629780977,
+    "odds": 1.91
+}, {
+    "team": "Detroit Tigers",
+    "bookmaker": "SuperBook",
+    "ev": 0.01667284179325662,
+    "odds": 1.96
+}, {
+    "team": "Minnesota Twins",
+    "bookmaker": "SuperBook",
+    "ev": 0.008540660972892633,
+    "odds": 1.94
+}, {
+    "team": "Detroit Tigers",
+    "bookmaker": "Unibet",
+    "ev": -0.019636902556502578,
+    "odds": 1.89
+}, {
+    "team": "Minnesota Twins",
+    "bookmaker": "Unibet",
+    "ev": 0.008540660972892633,
+    "odds": 1.94
+}, {
+    "team": "Detroit Tigers",
+    "bookmaker": "BetRivers",
+    "ev": -0.019636902556502578,
+    "odds": 1.89
+}, {
+    "team": "Minnesota Twins",
+    "bookmaker": "BetRivers",
+    "ev": 0.008540660972892633,
+    "odds": 1.94
+}, {
+    "team": "Milwaukee Brewers",
+    "bookmaker": "DraftKings",
+    "ev": 1.1102230246251565e-16,
+    "odds": 2.4
+}, {
+    "team": "St. Louis Cardinals",
+    "bookmaker": "DraftKings",
+    "ev": -0.008849557522123741,
+    "odds": 1.6
+}, {
+    "team": "Milwaukee Brewers",
+    "bookmaker": "BetUS",
+    "ev": 0.02083333333333348,
+    "odds": 2.45
+}, {
+    "team": "St. Louis Cardinals",
+    "bookmaker": "BetUS",
+    "ev": -0.0026548672566369946,
+    "odds": 1.61
+}, {
+    "team": "Milwaukee Brewers",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.029166666666666896,
+    "odds": 2.47
+}, {
+    "team": "St. Louis Cardinals",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.0035398230088497518,
+    "odds": 1.62
+}, {
+    "team": "Milwaukee Brewers",
+    "bookmaker": "FanDuel",
+    "ev": -0.02499999999999991,
+    "odds": 2.34
+}, {
+    "team": "St. Louis Cardinals",
+    "bookmaker": "FanDuel",
+    "ev": 0.009734513274336332,
+    "odds": 1.63
+}, {
+    "team": "Milwaukee Brewers",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.016666666666666607,
+    "odds": 2.36
+}, {
+    "team": "St. Louis Cardinals",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.008849557522123741,
+    "odds": 1.6
+}, {
+    "team": "Milwaukee Brewers",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.029166666666666896,
+    "odds": 2.47
+}, {
+    "team": "St. Louis Cardinals",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.0035398230088497518,
+    "odds": 1.62
+}, {
+    "team": "Milwaukee Brewers",
+    "bookmaker": "Caesars",
+    "ev": 1.1102230246251565e-16,
+    "odds": 2.4
+}, {
+    "team": "St. Louis Cardinals",
+    "bookmaker": "Caesars",
+    "ev": -0.0026548672566369946,
+    "odds": 1.61
+}, {
+    "team": "Milwaukee Brewers",
+    "bookmaker": "Bovada",
+    "ev": 0.004166666666666874,
+    "odds": 2.41
+}, {
+    "team": "St. Louis Cardinals",
+    "bookmaker": "Bovada",
+    "ev": -0.015044247787610432,
+    "odds": 1.59
+}, {
+    "team": "Milwaukee Brewers",
+    "bookmaker": "WynnBET",
+    "ev": 0.04166666666666674,
+    "odds": 2.5
+}, {
+    "team": "St. Louis Cardinals",
+    "bookmaker": "WynnBET",
+    "ev": -0.0026548672566369946,
+    "odds": 1.61
+}, {
+    "team": "Milwaukee Brewers",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.04166666666666663,
+    "odds": 2.3
+}, {
+    "team": "St. Louis Cardinals",
+    "bookmaker": "PointsBet (US)",
+    "ev": 0.0035398230088497518,
+    "odds": 1.62
+}, {
+    "team": "Milwaukee Brewers",
+    "bookmaker": "BetMGM",
+    "ev": -0.02083333333333315,
+    "odds": 2.35
+}, {
+    "team": "St. Louis Cardinals",
+    "bookmaker": "BetMGM",
+    "ev": -0.0026548672566369946,
+    "odds": 1.61
+}, {
+    "team": "Milwaukee Brewers",
+    "bookmaker": "SuperBook",
+    "ev": 0.02083333333333348,
+    "odds": 2.45
+}, {
+    "team": "St. Louis Cardinals",
+    "bookmaker": "SuperBook",
+    "ev": 0.0035398230088497518,
+    "odds": 1.62
+}, {
+    "team": "Milwaukee Brewers",
+    "bookmaker": "Unibet",
+    "ev": -0.02083333333333315,
+    "odds": 2.35
+}, {
+    "team": "St. Louis Cardinals",
+    "bookmaker": "Unibet",
+    "ev": 0.009734513274336332,
+    "odds": 1.63
+}, {
+    "team": "Milwaukee Brewers",
+    "bookmaker": "BetRivers",
+    "ev": -0.02083333333333315,
+    "odds": 2.35
+}, {
+    "team": "St. Louis Cardinals",
+    "bookmaker": "BetRivers",
+    "ev": 0.009734513274336332,
+    "odds": 1.63
+}, {
+    "team": "Chicago Cubs",
+    "bookmaker": "DraftKings",
+    "ev": -0.008403361344537785,
+    "odds": 1.77
+}, {
+    "team": "Miami Marlins",
+    "bookmaker": "DraftKings",
+    "ev": -0.0013586956521739468,
+    "odds": 2.1
+}, {
+    "team": "Chicago Cubs",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.01400560224089642,
+    "odds": 1.81
+}, {
+    "team": "Miami Marlins",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.012907608695651995,
+    "odds": 2.13
+}, {
+    "team": "Chicago Cubs",
+    "bookmaker": "FanDuel",
+    "ev": 0.0028011204481793173,
+    "odds": 1.79
+}, {
+    "team": "Miami Marlins",
+    "bookmaker": "FanDuel",
+    "ev": -0.010869565217391353,
+    "odds": 2.08
+}, {
+    "team": "Chicago Cubs",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.0028011204481792618,
+    "odds": 1.78
+}, {
+    "team": "Miami Marlins",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.025135869565217572,
+    "odds": 2.05
+}, {
+    "team": "Chicago Cubs",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.01400560224089642,
+    "odds": 1.81
+}, {
+    "team": "Miami Marlins",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.012907608695651995,
+    "odds": 2.13
+}, {
+    "team": "Chicago Cubs",
+    "bookmaker": "Caesars",
+    "ev": 0.00840336134453784,
+    "odds": 1.8
+}, {
+    "team": "Miami Marlins",
+    "bookmaker": "Caesars",
+    "ev": -0.025135869565217572,
+    "odds": 2.05
+}, {
+    "team": "Chicago Cubs",
+    "bookmaker": "Bovada",
+    "ev": -0.014005602240896364,
+    "odds": 1.76
+}, {
+    "team": "Miami Marlins",
+    "bookmaker": "Bovada",
+    "ev": -0.0013586956521739468,
+    "odds": 2.1
+}, {
+    "team": "Chicago Cubs",
+    "bookmaker": "WynnBET",
+    "ev": 0.00840336134453784,
+    "odds": 1.8
+}, {
+    "team": "Miami Marlins",
+    "bookmaker": "WynnBET",
+    "ev": 0.012907608695651995,
+    "odds": 2.13
+}, {
+    "team": "Chicago Cubs",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.008403361344537785,
+    "odds": 1.77
+}, {
+    "team": "Miami Marlins",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.0013586956521739468,
+    "odds": 2.1
+}, {
+    "team": "Chicago Cubs",
+    "bookmaker": "SuperBook",
+    "ev": 0.025210084033613522,
+    "odds": 1.83
+}, {
+    "team": "Miami Marlins",
+    "bookmaker": "SuperBook",
+    "ev": -0.0013586956521739468,
+    "odds": 2.1
+}, {
+    "team": "Chicago Cubs",
+    "bookmaker": "BetMGM",
+    "ev": -0.02521008403361341,
+    "odds": 1.74
+}, {
+    "team": "Miami Marlins",
+    "bookmaker": "BetMGM",
+    "ev": -0.0013586956521739468,
+    "odds": 2.1
+}, {
+    "team": "Chicago Cubs",
+    "bookmaker": "BetUS",
+    "ev": 0.01400560224089642,
+    "odds": 1.81
+}, {
+    "team": "Miami Marlins",
+    "bookmaker": "BetUS",
+    "ev": 0.012907608695651995,
+    "odds": 2.13
+}, {
+    "team": "Chicago Cubs",
+    "bookmaker": "Unibet",
+    "ev": -0.014005602240896364,
+    "odds": 1.76
+}, {
+    "team": "Miami Marlins",
+    "bookmaker": "Unibet",
+    "ev": 0.008152173913043459,
+    "odds": 2.12
+}, {
+    "team": "Chicago Cubs",
+    "bookmaker": "BetRivers",
+    "ev": -0.014005602240896364,
+    "odds": 1.76
+}, {
+    "team": "Miami Marlins",
+    "bookmaker": "BetRivers",
+    "ev": 0.008152173913043459,
+    "odds": 2.12
+}, {
+    "team": "Colorado Rockies",
+    "bookmaker": "DraftKings",
+    "ev": -0.012345679012345512,
+    "odds": 2.6
+}, {
+    "team": "Seattle Mariners",
+    "bookmaker": "DraftKings",
+    "ev": -0.002733734281027911,
+    "odds": 1.52
+}, {
+    "team": "Colorado Rockies",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.021842355175688666,
+    "odds": 2.69
+}, {
+    "team": "Seattle Mariners",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.010388190267905939,
+    "odds": 1.54
+}, {
+    "team": "Colorado Rockies",
+    "bookmaker": "FanDuel",
+    "ev": 0.002849002849003024,
+    "odds": 2.64
+}, {
+    "team": "Seattle Mariners",
+    "bookmaker": "FanDuel",
+    "ev": -0.009294696555494808,
+    "odds": 1.51
+}, {
+    "team": "Colorado Rockies",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.012345679012345512,
+    "odds": 2.6
+}, {
+    "team": "Seattle Mariners",
+    "bookmaker": "PointsBet (US)",
+    "ev": 0.003827227993439042,
+    "odds": 1.53
+}, {
+    "team": "Colorado Rockies",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.021842355175688666,
+    "odds": 2.69
+}, {
+    "team": "Seattle Mariners",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.010388190267905939,
+    "odds": 1.54
+}, {
+    "team": "Colorado Rockies",
+    "bookmaker": "WynnBET",
+    "ev": 0.025641025641025883,
+    "odds": 2.7
+}, {
+    "team": "Seattle Mariners",
+    "bookmaker": "WynnBET",
+    "ev": 0.003827227993439042,
+    "odds": 1.53
+}, {
+    "team": "Colorado Rockies",
+    "bookmaker": "BetMGM",
+    "ev": -0.031339031339031265,
+    "odds": 2.55
+}, {
+    "team": "Seattle Mariners",
+    "bookmaker": "BetMGM",
+    "ev": 0.003827227993439042,
+    "odds": 1.53
+}, {
+    "team": "Colorado Rockies",
+    "bookmaker": "Caesars",
+    "ev": -0.0047483380816712994,
+    "odds": 2.62
+}, {
+    "team": "Seattle Mariners",
+    "bookmaker": "Caesars",
+    "ev": -0.009294696555494808,
+    "odds": 1.51
+}, {
+    "team": "Colorado Rockies",
+    "bookmaker": "BetUS",
+    "ev": 0.01804368471035156,
+    "odds": 2.68
+}, {
+    "team": "Seattle Mariners",
+    "bookmaker": "BetUS",
+    "ev": 0.003827227993439042,
+    "odds": 1.53
+}, {
+    "team": "Colorado Rockies",
+    "bookmaker": "Unibet",
+    "ev": -0.0009496676163341933,
+    "odds": 2.63
+}, {
+    "team": "Seattle Mariners",
+    "bookmaker": "Unibet",
+    "ev": -0.009294696555494808,
+    "odds": 1.51
+}, {
+    "team": "Colorado Rockies",
+    "bookmaker": "BetRivers",
+    "ev": -0.0009496676163341933,
+    "odds": 2.63
+}, {
+    "team": "Seattle Mariners",
+    "bookmaker": "BetRivers",
+    "ev": -0.009294696555494808,
+    "odds": 1.51
+}, {
+    "team": "Colorado Rockies",
+    "bookmaker": "Bovada",
+    "ev": -0.027540360873694048,
+    "odds": 2.56
+}, {
+    "team": "Seattle Mariners",
+    "bookmaker": "Bovada",
+    "ev": 0.003827227993439042,
+    "odds": 1.53
+}, {
+    "team": "Arizona Diamondbacks",
+    "bookmaker": "DraftKings",
+    "ev": -0.0036496350364962904,
+    "odds": 1.95
+}, {
+    "team": "San Francisco Giants",
+    "bookmaker": "DraftKings",
+    "ev": -0.016159338594513573,
+    "odds": 1.87
+}, {
+    "team": "Arizona Diamondbacks",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.01167883211678844,
+    "odds": 1.98
+}, {
+    "team": "San Francisco Giants",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.015407741450582157,
+    "odds": 1.93
+}, {
+    "team": "Arizona Diamondbacks",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.01167883211678844,
+    "odds": 1.98
+}, {
+    "team": "San Francisco Giants",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.015407741450582157,
+    "odds": 1.93
+}, {
+    "team": "Arizona Diamondbacks",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.008759124087591164,
+    "odds": 1.94
+}, {
+    "team": "San Francisco Giants",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.016159338594513573,
+    "odds": 1.87
+}, {
+    "team": "Arizona Diamondbacks",
+    "bookmaker": "FanDuel",
+    "ev": 0.0014598540145985828,
+    "odds": 1.96
+}, {
+    "team": "San Francisco Giants",
+    "bookmaker": "FanDuel",
+    "ev": -0.005636978579481755,
+    "odds": 1.89
+}, {
+    "team": "Arizona Diamondbacks",
+    "bookmaker": "BetUS",
+    "ev": 0.016788321167883313,
+    "odds": 1.99
+}, {
+    "team": "San Francisco Giants",
+    "bookmaker": "BetUS",
+    "ev": 0.010146561443066193,
+    "odds": 1.92
+}, {
+    "team": "Arizona Diamondbacks",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.024087591240875894,
+    "odds": 1.91
+}, {
+    "team": "San Francisco Giants",
+    "bookmaker": "PointsBet (US)",
+    "ev": 0.0048853814355501735,
+    "odds": 1.91
+}, {
+    "team": "Arizona Diamondbacks",
+    "bookmaker": "Caesars",
+    "ev": -0.0036496350364962904,
+    "odds": 1.95
+}, {
+    "team": "San Francisco Giants",
+    "bookmaker": "Caesars",
+    "ev": -0.016159338594513573,
+    "odds": 1.87
+}, {
+    "team": "Arizona Diamondbacks",
+    "bookmaker": "Bovada",
+    "ev": -0.0036496350364962904,
+    "odds": 1.95
+}, {
+    "team": "San Francisco Giants",
+    "bookmaker": "Bovada",
+    "ev": -0.016159338594513573,
+    "odds": 1.87
+}, {
+    "team": "Arizona Diamondbacks",
+    "bookmaker": "WynnBET",
+    "ev": 0.021897810218978186,
+    "odds": 2.0
+}, {
+    "team": "San Francisco Giants",
+    "bookmaker": "WynnBET",
+    "ev": 0.0048853814355501735,
+    "odds": 1.91
+}, {
+    "team": "Arizona Diamondbacks",
+    "bookmaker": "SuperBook",
+    "ev": 0.01167883211678844,
+    "odds": 1.98
+}, {
+    "team": "San Francisco Giants",
+    "bookmaker": "SuperBook",
+    "ev": 0.015407741450582157,
+    "odds": 1.93
+}, {
+    "team": "Arizona Diamondbacks",
+    "bookmaker": "BetMGM",
+    "ev": -0.0036496350364962904,
+    "odds": 1.95
+}, {
+    "team": "San Francisco Giants",
+    "bookmaker": "BetMGM",
+    "ev": -0.016159338594513573,
+    "odds": 1.87
+}, {
+    "team": "Arizona Diamondbacks",
+    "bookmaker": "Unibet",
+    "ev": -0.013868613138686092,
+    "odds": 1.93
+}, {
+    "team": "San Francisco Giants",
+    "bookmaker": "Unibet",
+    "ev": 0.010146561443066193,
+    "odds": 1.92
+}, {
+    "team": "Arizona Diamondbacks",
+    "bookmaker": "BetRivers",
+    "ev": -0.013868613138686092,
+    "odds": 1.93
+}, {
+    "team": "San Francisco Giants",
+    "bookmaker": "BetRivers",
+    "ev": 0.010146561443066193,
+    "odds": 1.92
+}, {
+    "team": "Los Angeles Dodgers",
+    "bookmaker": "DraftKings",
+    "ev": -0.0011723329425556428,
+    "odds": 1.42
+}, {
+    "team": "New York Mets",
+    "bookmaker": "DraftKings",
+    "ev": -0.011173184357541666,
+    "odds": 2.95
+}, {
+    "team": "Los Angeles Dodgers",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.0058616647127784915,
+    "odds": 1.43
+}, {
+    "team": "New York Mets",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.02905027932960902,
+    "odds": 3.07
+}, {
+    "team": "Los Angeles Dodgers",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.0058616647127784915,
+    "odds": 1.43
+}, {
+    "team": "New York Mets",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.02905027932960902,
+    "odds": 3.07
+}, {
+    "team": "Los Angeles Dodgers",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.008206330597889777,
+    "odds": 1.41
+}, {
+    "team": "New York Mets",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.017877094972066798,
+    "odds": 2.93
+}, {
+    "team": "Los Angeles Dodgers",
+    "bookmaker": "FanDuel",
+    "ev": -0.0011723329425556428,
+    "odds": 1.42
+}, {
+    "team": "New York Mets",
+    "bookmaker": "FanDuel",
+    "ev": -0.0011173184357540222,
+    "odds": 2.98
+}, {
+    "team": "Los Angeles Dodgers",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.0011723329425556428,
+    "odds": 1.42
+}, {
+    "team": "New York Mets",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.027932960893854664,
+    "odds": 2.9
+}, {
+    "team": "Los Angeles Dodgers",
+    "bookmaker": "WynnBET",
+    "ev": 0.01289566236811257,
+    "odds": 1.44
+}, {
+    "team": "New York Mets",
+    "bookmaker": "WynnBET",
+    "ev": 0.00558659217877111,
+    "odds": 3.0
+}, {
+    "team": "Los Angeles Dodgers",
+    "bookmaker": "Caesars",
+    "ev": -0.015240328253223911,
+    "odds": 1.4
+}, {
+    "team": "New York Mets",
+    "bookmaker": "Caesars",
+    "ev": 0.022346368715083886,
+    "odds": 3.05
+}, {
+    "team": "Los Angeles Dodgers",
+    "bookmaker": "BetMGM",
+    "ev": 0.01289566236811257,
+    "odds": 1.44
+}, {
+    "team": "New York Mets",
+    "bookmaker": "BetMGM",
+    "ev": -0.04469273743016744,
+    "odds": 2.85
+}, {
+    "team": "Los Angeles Dodgers",
+    "bookmaker": "Bovada",
+    "ev": -0.008206330597889777,
+    "odds": 1.41
+}, {
+    "team": "New York Mets",
+    "bookmaker": "Bovada",
+    "ev": 0.00558659217877111,
+    "odds": 3.0
+}, {
+    "team": "Los Angeles Dodgers",
+    "bookmaker": "Unibet",
+    "ev": -0.0011723329425556428,
+    "odds": 1.42
+}, {
+    "team": "New York Mets",
+    "bookmaker": "Unibet",
+    "ev": 0.00558659217877111,
+    "odds": 3.0
+}, {
+    "team": "Los Angeles Dodgers",
+    "bookmaker": "BetRivers",
+    "ev": -0.0011723329425556428,
+    "odds": 1.42
+}, {
+    "team": "New York Mets",
+    "bookmaker": "BetRivers",
+    "ev": 0.00558659217877111,
+    "odds": 3.0
+}, {
+    "team": "San Diego Padres",
+    "bookmaker": "DraftKings",
+    "ev": -0.011961722488038284,
+    "odds": 1.77
+}, {
+    "team": "Toronto Blue Jays",
+    "bookmaker": "DraftKings",
+    "ev": 0.0023866348448690067,
+    "odds": 2.1
+}, {
+    "team": "San Diego Padres",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.0215311004784689,
+    "odds": 1.83
+}, {
+    "team": "Toronto Blue Jays",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.0023866348448690067,
+    "odds": 2.1
+}, {
+    "team": "San Diego Padres",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.0215311004784689,
+    "odds": 1.83
+}, {
+    "team": "Toronto Blue Jays",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.0023866348448690067,
+    "odds": 2.1
+}, {
+    "team": "San Diego Padres",
+    "bookmaker": "FanDuel",
+    "ev": 0.010366826156299858,
+    "odds": 1.81
+}, {
+    "team": "Toronto Blue Jays",
+    "bookmaker": "FanDuel",
+    "ev": -0.016706443914080937,
+    "odds": 2.06
+}, {
+    "team": "San Diego Padres",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.011961722488038284,
+    "odds": 1.77
+}, {
+    "team": "Toronto Blue Jays",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.016706443914080937,
+    "odds": 2.06
+}, {
+    "team": "San Diego Padres",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.011961722488038284,
+    "odds": 1.77
+}, {
+    "team": "Toronto Blue Jays",
+    "bookmaker": "PointsBet (US)",
+    "ev": 0.0023866348448690067,
+    "odds": 2.1
+}, {
+    "team": "San Diego Padres",
+    "bookmaker": "Caesars",
+    "ev": -0.011961722488038284,
+    "odds": 1.77
+}, {
+    "team": "Toronto Blue Jays",
+    "bookmaker": "Caesars",
+    "ev": 0.0023866348448690067,
+    "odds": 2.1
+}, {
+    "team": "San Diego Padres",
+    "bookmaker": "Bovada",
+    "ev": -0.017543859649122806,
+    "odds": 1.76
+}, {
+    "team": "Toronto Blue Jays",
+    "bookmaker": "Bovada",
+    "ev": -0.0023866348448685626,
+    "odds": 2.09
+}, {
+    "team": "San Diego Padres",
+    "bookmaker": "WynnBET",
+    "ev": 0.004784688995215336,
+    "odds": 1.8
+}, {
+    "team": "Toronto Blue Jays",
+    "bookmaker": "WynnBET",
+    "ev": 0.01670644391408138,
+    "odds": 2.13
+}, {
+    "team": "San Diego Padres",
+    "bookmaker": "SuperBook",
+    "ev": 0.004784688995215336,
+    "odds": 1.8
+}, {
+    "team": "Toronto Blue Jays",
+    "bookmaker": "SuperBook",
+    "ev": 0.026252983293556298,
+    "odds": 2.15
+}, {
+    "team": "San Diego Padres",
+    "bookmaker": "BetMGM",
+    "ev": -0.011961722488038284,
+    "odds": 1.77
+}, {
+    "team": "Toronto Blue Jays",
+    "bookmaker": "BetMGM",
+    "ev": -0.021479713603818507,
+    "odds": 2.05
+}, {
+    "team": "San Diego Padres",
+    "bookmaker": "BetUS",
+    "ev": 0.004784688995215336,
+    "odds": 1.8
+}, {
+    "team": "Toronto Blue Jays",
+    "bookmaker": "BetUS",
+    "ev": 0.026252983293556298,
+    "odds": 2.15
+}, {
+    "team": "San Diego Padres",
+    "bookmaker": "Unibet",
+    "ev": 0.004784688995215336,
+    "odds": 1.8
+}, {
+    "team": "Toronto Blue Jays",
+    "bookmaker": "Unibet",
+    "ev": -0.011933174224343479,
+    "odds": 2.07
+}, {
+    "team": "San Diego Padres",
+    "bookmaker": "BetRivers",
+    "ev": 0.004784688995215336,
+    "odds": 1.8
+}, {
+    "team": "Toronto Blue Jays",
+    "bookmaker": "BetRivers",
+    "ev": -0.011933174224343479,
+    "odds": 2.07
+}, {
+    "team": "Atlanta Braves",
+    "bookmaker": "DraftKings",
+    "ev": -0.010039284155390904,
+    "odds": 1.62
+}, {
+    "team": "Texas Rangers",
+    "bookmaker": "DraftKings",
+    "ev": 0.0030358227079538835,
+    "odds": 2.36
+}, {
+    "team": "Atlanta Braves",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.014404190309907972,
+    "odds": 1.66
+}, {
+    "team": "Texas Rangers",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.01578627808136024,
+    "odds": 2.39
+}, {
+    "team": "Atlanta Braves",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.014404190309907972,
+    "odds": 1.66
+}, {
+    "team": "Texas Rangers",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.01578627808136024,
+    "odds": 2.39
+}, {
+    "team": "Atlanta Braves",
+    "bookmaker": "FanDuel",
+    "ev": 0.008293321693583211,
+    "odds": 1.65
+}, {
+    "team": "Texas Rangers",
+    "bookmaker": "FanDuel",
+    "ev": -0.022465088038858494,
+    "odds": 2.3
+}, {
+    "team": "Atlanta Braves",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.010039284155390904,
+    "odds": 1.62
+}, {
+    "team": "Texas Rangers",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.018214936247722968,
+    "odds": 2.31
+}, {
+    "team": "Atlanta Braves",
+    "bookmaker": "Caesars",
+    "ev": -0.010039284155390904,
+    "odds": 1.62
+}, {
+    "team": "Texas Rangers",
+    "bookmaker": "Caesars",
+    "ev": -0.0012143290831814202,
+    "odds": 2.35
+}, {
+    "team": "Atlanta Braves",
+    "bookmaker": "Bovada",
+    "ev": -0.0039284155390662545,
+    "odds": 1.63
+}, {
+    "team": "Texas Rangers",
+    "bookmaker": "Bovada",
+    "ev": -0.00971463266545225,
+    "odds": 2.33
+}, {
+    "team": "Atlanta Braves",
+    "bookmaker": "WynnBET",
+    "ev": -0.010039284155390904,
+    "odds": 1.62
+}, {
+    "team": "Texas Rangers",
+    "bookmaker": "WynnBET",
+    "ev": 0.041287188828172616,
+    "odds": 2.45
+}, {
+    "team": "Atlanta Braves",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.010039284155390904,
+    "odds": 1.62
+}, {
+    "team": "Texas Rangers",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.022465088038858494,
+    "odds": 2.3
+}, {
+    "team": "Atlanta Braves",
+    "bookmaker": "BetUS",
+    "ev": 0.014404190309907972,
+    "odds": 1.66
+}, {
+    "team": "Texas Rangers",
+    "bookmaker": "BetUS",
+    "ev": 0.007285974499089409,
+    "odds": 2.37
+}, {
+    "team": "Atlanta Braves",
+    "bookmaker": "SuperBook",
+    "ev": 0.008293321693583211,
+    "odds": 1.65
+}, {
+    "team": "Texas Rangers",
+    "bookmaker": "SuperBook",
+    "ev": 0.020036429872495543,
+    "odds": 2.4
+}, {
+    "team": "Atlanta Braves",
+    "bookmaker": "BetMGM",
+    "ev": -0.010039284155390904,
+    "odds": 1.62
+}, {
+    "team": "Texas Rangers",
+    "bookmaker": "BetMGM",
+    "ev": -0.0012143290831814202,
+    "odds": 2.35
+}, {
+    "team": "Atlanta Braves",
+    "bookmaker": "Unibet",
+    "ev": 0.002182453077258506,
+    "odds": 1.64
+}, {
+    "team": "Texas Rangers",
+    "bookmaker": "Unibet",
+    "ev": -0.013964784456587664,
+    "odds": 2.32
+}, {
+    "team": "Atlanta Braves",
+    "bookmaker": "BetRivers",
+    "ev": 0.002182453077258506,
+    "odds": 1.64
+}, {
+    "team": "Texas Rangers",
+    "bookmaker": "BetRivers",
+    "ev": -0.013964784456587664,
+    "odds": 2.32
+}, {
+    "team": "Colorado Rockies",
+    "bookmaker": "DraftKings",
+    "ev": -0.016105417276720435,
+    "odds": 2.24
+}, {
+    "team": "Seattle Mariners",
+    "bookmaker": "DraftKings",
+    "ev": 0.004651162790697716,
+    "odds": 1.68
+}, {
+    "team": "Colorado Rockies",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.010248901903367247,
+    "odds": 2.3
+}, {
+    "team": "Seattle Mariners",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.016611295681063176,
+    "odds": 1.7
+}, {
+    "team": "Colorado Rockies",
+    "bookmaker": "FanDuel",
+    "ev": 0.0014641288433380195,
+    "odds": 2.28
+}, {
+    "team": "Seattle Mariners",
+    "bookmaker": "FanDuel",
+    "ev": -0.007308970099667744,
+    "odds": 1.66
+}, {
+    "team": "Colorado Rockies",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.010248901903367247,
+    "odds": 2.3
+}, {
+    "team": "Seattle Mariners",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.016611295681063176,
+    "odds": 1.7
+}, {
+    "team": "Colorado Rockies",
+    "bookmaker": "BetMGM",
+    "ev": -0.011713030746705821,
+    "odds": 2.25
+}, {
+    "team": "Seattle Mariners",
+    "bookmaker": "BetMGM",
+    "ev": -0.0013289036544850141,
+    "odds": 1.67
+}, {
+    "team": "Colorado Rockies",
+    "bookmaker": "Unibet",
+    "ev": 0.019033674963396585,
+    "odds": 2.32
+}, {
+    "team": "Seattle Mariners",
+    "bookmaker": "Unibet",
+    "ev": -0.013289036544850474,
+    "odds": 1.65
+}, {
+    "team": "Colorado Rockies",
+    "bookmaker": "BetRivers",
+    "ev": 0.019033674963396585,
+    "odds": 2.32
+}, {
+    "team": "Seattle Mariners",
+    "bookmaker": "BetRivers",
+    "ev": -0.013289036544850474,
+    "odds": 1.65
+}, {
+    "team": "Colorado Rockies",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.007320644216691319,
+    "odds": 2.26
+}, {
+    "team": "Seattle Mariners",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.013289036544850474,
+    "odds": 1.65
+}, {
+    "team": "Colorado Rockies",
+    "bookmaker": "Caesars",
+    "ev": -0.024890190336749662,
+    "odds": 2.22
+}, {
+    "team": "Seattle Mariners",
+    "bookmaker": "Caesars",
+    "ev": 0.010631229235880446,
+    "odds": 1.69
+}, {
+    "team": "Boston Celtics",
+    "bookmaker": "DraftKings",
+    "ev": -0.0065703022339025086,
+    "odds": 1.08
+}, {
+    "team": "Miami Heat",
+    "bookmaker": "DraftKings",
+    "ev": 0.052910989205450454,
+    "odds": 8.5
+}, {
+    "team": "Boston Celtics",
+    "bookmaker": "FanDuel",
+    "ev": 0.0026281208935613615,
+    "odds": 1.09
+}, {
+    "team": "Miami Heat",
+    "bookmaker": "FanDuel",
+    "ev": -0.009024951336046638,
+    "odds": 8.0
+}, {
+    "team": "Boston Celtics",
+    "bookmaker": "BetOnline.ag",
+    "ev": -0.0065703022339025086,
+    "odds": 1.08
+}, {
+    "team": "Miami Heat",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.052910989205450454,
+    "odds": 8.5
+}, {
+    "team": "Boston Celtics",
+    "bookmaker": "LowVig.ag",
+    "ev": -0.0065703022339025086,
+    "odds": 1.08
+}, {
+    "team": "Miami Heat",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.052910989205450454,
+    "odds": 8.5
+}, {
+    "team": "Boston Celtics",
+    "bookmaker": "Caesars",
+    "ev": 0.0026281208935613615,
+    "odds": 1.09
+}, {
+    "team": "Miami Heat",
+    "bookmaker": "Caesars",
+    "ev": -0.009024951336046638,
+    "odds": 8.0
+}, {
+    "team": "Boston Celtics",
+    "bookmaker": "WynnBET",
+    "ev": 0.0026281208935613615,
+    "odds": 1.09
+}, {
+    "team": "Miami Heat",
+    "bookmaker": "WynnBET",
+    "ev": 0.021943018934701963,
+    "odds": 8.25
+}, {
+    "team": "Boston Celtics",
+    "bookmaker": "SuperBook",
+    "ev": 0.0026281208935613615,
+    "odds": 1.09
+}, {
+    "team": "Miami Heat",
+    "bookmaker": "SuperBook",
+    "ev": -0.009024951336046638,
+    "odds": 8.0
+}, {
+    "team": "Boston Celtics",
+    "bookmaker": "BetRivers",
+    "ev": 0.0026281208935613615,
+    "odds": 1.09
+}, {
+    "team": "Miami Heat",
+    "bookmaker": "BetRivers",
+    "ev": -0.009024951336046638,
+    "odds": 8.0
+}, {
+    "team": "Boston Celtics",
+    "bookmaker": "Unibet",
+    "ev": 0.0026281208935613615,
+    "odds": 1.09
+}, {
+    "team": "Miami Heat",
+    "bookmaker": "Unibet",
+    "ev": -0.009024951336046638,
+    "odds": 8.0
+}, {
+    "team": "Boston Celtics",
+    "bookmaker": "Bovada",
+    "ev": -0.0065703022339025086,
+    "odds": 1.08
+}, {
+    "team": "Miami Heat",
+    "bookmaker": "Bovada",
+    "ev": -0.009024951336046638,
+    "odds": 8.0
+}, {
+    "team": "Boston Celtics",
+    "bookmaker": "MyBookie.ag",
+    "ev": 0.0026281208935613615,
+    "odds": 1.09
+}, {
+    "team": "Miami Heat",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.06848345425588387,
+    "odds": 7.52
+}, {
+    "team": "Boston Celtics",
+    "bookmaker": "PointsBet (US)",
+    "ev": 0.0026281208935613615,
+    "odds": 1.09
+}, {
+    "team": "Miami Heat",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.009024951336046638,
+    "odds": 8.0
+}, {
+    "team": "Boston Celtics",
+    "bookmaker": "BetMGM",
+    "ev": 0.0026281208935613615,
+    "odds": 1.09
+}, {
+    "team": "Miami Heat",
+    "bookmaker": "BetMGM",
+    "ev": -0.03999292160679513,
+    "odds": 7.75
+}, {
+    "team": "Boston Celtics",
+    "bookmaker": "BetUS",
+    "ev": 0.0026281208935613615,
+    "odds": 1.09
+}, {
+    "team": "Miami Heat",
+    "bookmaker": "BetUS",
+    "ev": -0.009024951336046638,
+    "odds": 8.0
+}, {
+    "team": "Dallas Mavericks",
+    "bookmaker": "DraftKings",
+    "ev": 0.010615711252653703,
+    "odds": 1.7
+}, {
+    "team": "Los Angeles Clippers",
+    "bookmaker": "DraftKings",
+    "ev": -0.019732654360279933,
+    "odds": 2.2
+}, {
+    "team": "Dallas Mavericks",
+    "bookmaker": "Bovada",
+    "ev": 0.00467091295116745,
+    "odds": 1.69
+}, {
+    "team": "Los Angeles Clippers",
+    "bookmaker": "Bovada",
+    "ev": 0.0025461489497136114,
+    "odds": 2.25
+}, {
+    "team": "Dallas Mavericks",
+    "bookmaker": "FanDuel",
+    "ev": -0.0012738853503187486,
+    "odds": 1.68
+}, {
+    "team": "Los Angeles Clippers",
+    "bookmaker": "FanDuel",
+    "ev": -0.0019096117122850975,
+    "odds": 2.24
+}, {
+    "team": "Dallas Mavericks",
+    "bookmaker": "Caesars",
+    "ev": -0.007218683651804947,
+    "odds": 1.67
+}, {
+    "team": "Los Angeles Clippers",
+    "bookmaker": "Caesars",
+    "ev": 0.007001909611712209,
+    "odds": 2.26
+}, {
+    "team": "Dallas Mavericks",
+    "bookmaker": "BetOnline.ag",
+    "ev": -0.007218683651804947,
+    "odds": 1.67
+}, {
+    "team": "Los Angeles Clippers",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.024824952259707156,
+    "odds": 2.3
+}, {
+    "team": "Dallas Mavericks",
+    "bookmaker": "LowVig.ag",
+    "ev": -0.007218683651804947,
+    "odds": 1.67
+}, {
+    "team": "Los Angeles Clippers",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.024824952259707156,
+    "odds": 2.3
+}, {
+    "team": "Dallas Mavericks",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.0012738853503187486,
+    "odds": 1.68
+}, {
+    "team": "Los Angeles Clippers",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.03309993634627628,
+    "odds": 2.17
+}, {
+    "team": "Dallas Mavericks",
+    "bookmaker": "PointsBet (US)",
+    "ev": 0.00467091295116745,
+    "odds": 1.69
+}, {
+    "team": "Los Angeles Clippers",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.019732654360279933,
+    "odds": 2.2
+}, {
+    "team": "Dallas Mavericks",
+    "bookmaker": "SuperBook",
+    "ev": 0.00467091295116745,
+    "odds": 1.69
+}, {
+    "team": "Los Angeles Clippers",
+    "bookmaker": "SuperBook",
+    "ev": 0.0025461489497136114,
+    "odds": 2.25
+}, {
+    "team": "Dallas Mavericks",
+    "bookmaker": "Unibet",
+    "ev": -0.0012738853503187486,
+    "odds": 1.68
+}, {
+    "team": "Los Angeles Clippers",
+    "bookmaker": "Unibet",
+    "ev": 0.0025461489497136114,
+    "odds": 2.25
+}, {
+    "team": "Dallas Mavericks",
+    "bookmaker": "BetRivers",
+    "ev": -0.0012738853503187486,
+    "odds": 1.68
+}, {
+    "team": "Los Angeles Clippers",
+    "bookmaker": "BetRivers",
+    "ev": 0.0025461489497136114,
+    "odds": 2.25
+}, {
+    "team": "Dallas Mavericks",
+    "bookmaker": "BetMGM",
+    "ev": 0.00467091295116745,
+    "odds": 1.69
+}, {
+    "team": "Los Angeles Clippers",
+    "bookmaker": "BetMGM",
+    "ev": -0.019732654360279933,
+    "odds": 2.2
+}, {
+    "team": "Dallas Mavericks",
+    "bookmaker": "WynnBET",
+    "ev": 0.00467091295116745,
+    "odds": 1.69
+}, {
+    "team": "Los Angeles Clippers",
+    "bookmaker": "WynnBET",
+    "ev": 0.0025461489497136114,
+    "odds": 2.25
+}, {
+    "team": "Dallas Mavericks",
+    "bookmaker": "BetUS",
+    "ev": -0.007218683651804947,
+    "odds": 1.67
+}, {
+    "team": "Los Angeles Clippers",
+    "bookmaker": "BetUS",
+    "ev": 0.024824952259707156,
+    "odds": 2.3
+}, {
+    "team": "Indiana Pacers",
+    "bookmaker": "DraftKings",
+    "ev": 0.012765957446808529,
+    "odds": 1.87
+}, {
+    "team": "Milwaukee Bucks",
+    "bookmaker": "DraftKings",
+    "ev": -0.01869158878504673,
+    "odds": 1.95
+}, {
+    "team": "Indiana Pacers",
+    "bookmaker": "Bovada",
+    "ev": 0.012765957446808529,
+    "odds": 1.87
+}, {
+    "team": "Milwaukee Bucks",
+    "bookmaker": "Bovada",
+    "ev": -0.01869158878504673,
+    "odds": 1.95
+}, {
+    "team": "Indiana Pacers",
+    "bookmaker": "Caesars",
+    "ev": -0.008897485493230162,
+    "odds": 1.83
+}, {
+    "team": "Milwaukee Bucks",
+    "bookmaker": "Caesars",
+    "ev": 0.006470165348670065,
+    "odds": 2.0
+}, {
+    "team": "Indiana Pacers",
+    "bookmaker": "LowVig.ag",
+    "ev": -0.008897485493230162,
+    "odds": 1.83
+}, {
+    "team": "Milwaukee Bucks",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.006470165348670065,
+    "odds": 2.0
+}, {
+    "team": "Indiana Pacers",
+    "bookmaker": "BetOnline.ag",
+    "ev": -0.008897485493230162,
+    "odds": 1.83
+}, {
+    "team": "Milwaukee Bucks",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.006470165348670065,
+    "odds": 2.0
+}, {
+    "team": "Indiana Pacers",
+    "bookmaker": "FanDuel",
+    "ev": -0.008897485493230162,
+    "odds": 1.83
+}, {
+    "team": "Milwaukee Bucks",
+    "bookmaker": "FanDuel",
+    "ev": 0.016534867002156783,
+    "odds": 2.02
+}, {
+    "team": "Indiana Pacers",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.003481624758220503,
+    "odds": 1.84
+}, {
+    "team": "Milwaukee Bucks",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.008626887131560013,
+    "odds": 1.97
+}, {
+    "team": "Indiana Pacers",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.008897485493230162,
+    "odds": 1.83
+}, {
+    "team": "Milwaukee Bucks",
+    "bookmaker": "PointsBet (US)",
+    "ev": 0.006470165348670065,
+    "odds": 2.0
+}, {
+    "team": "Indiana Pacers",
+    "bookmaker": "BetMGM",
+    "ev": -0.008897485493230162,
+    "odds": 1.83
+}, {
+    "team": "Milwaukee Bucks",
+    "bookmaker": "BetMGM",
+    "ev": 0.006470165348670065,
+    "odds": 2.0
+}, {
+    "team": "Indiana Pacers",
+    "bookmaker": "SuperBook",
+    "ev": -0.008897485493230162,
+    "odds": 1.83
+}, {
+    "team": "Milwaukee Bucks",
+    "bookmaker": "SuperBook",
+    "ev": 0.006470165348670065,
+    "odds": 2.0
+}, {
+    "team": "Indiana Pacers",
+    "bookmaker": "Unibet",
+    "ev": 0.0019342359767892114,
+    "odds": 1.85
+}, {
+    "team": "Milwaukee Bucks",
+    "bookmaker": "Unibet",
+    "ev": 0.006470165348670065,
+    "odds": 2.0
+}, {
+    "team": "Indiana Pacers",
+    "bookmaker": "BetRivers",
+    "ev": 0.0019342359767892114,
+    "odds": 1.85
+}, {
+    "team": "Milwaukee Bucks",
+    "bookmaker": "BetRivers",
+    "ev": 0.006470165348670065,
+    "odds": 2.0
+}, {
+    "team": "Indiana Pacers",
+    "bookmaker": "WynnBET",
+    "ev": 0.04526112185686648,
+    "odds": 1.93
+}, {
+    "team": "Milwaukee Bucks",
+    "bookmaker": "WynnBET",
+    "ev": -0.028756290438533394,
+    "odds": 1.93
+}, {
+    "team": "Indiana Pacers",
+    "bookmaker": "BetUS",
+    "ev": -0.008897485493230162,
+    "odds": 1.83
+}, {
+    "team": "Milwaukee Bucks",
+    "bookmaker": "BetUS",
+    "ev": 0.006470165348670065,
+    "odds": 2.0
+}, {
+    "team": "New Orleans Pelicans",
+    "bookmaker": "DraftKings",
+    "ev": -0.009864135492276382,
+    "odds": 3.8
+}, {
+    "team": "Oklahoma City Thunder",
+    "bookmaker": "DraftKings",
+    "ev": -0.0016713091922002654,
+    "odds": 1.28
+}, {
+    "team": "New Orleans Pelicans",
+    "bookmaker": "FanDuel",
+    "ev": 0.01619207146845325,
+    "odds": 3.9
+}, {
+    "team": "Oklahoma City Thunder",
+    "bookmaker": "FanDuel",
+    "ev": -0.0016713091922002654,
+    "odds": 1.28
+}, {
+    "team": "New Orleans Pelicans",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.01619207146845325,
+    "odds": 3.9
+}, {
+    "team": "Oklahoma City Thunder",
+    "bookmaker": "BetOnline.ag",
+    "ev": -0.0016713091922002654,
+    "odds": 1.28
+}, {
+    "team": "New Orleans Pelicans",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.01619207146845325,
+    "odds": 3.9
+}, {
+    "team": "Oklahoma City Thunder",
+    "bookmaker": "LowVig.ag",
+    "ev": -0.0016713091922002654,
+    "odds": 1.28
+}, {
+    "team": "New Orleans Pelicans",
+    "bookmaker": "Caesars",
+    "ev": -0.015075376884422287,
+    "odds": 3.78
+}, {
+    "team": "Oklahoma City Thunder",
+    "bookmaker": "Caesars",
+    "ev": -0.0016713091922002654,
+    "odds": 1.28
+}, {
+    "team": "New Orleans Pelicans",
+    "bookmaker": "SuperBook",
+    "ev": -0.009864135492276382,
+    "odds": 3.8
+}, {
+    "team": "Oklahoma City Thunder",
+    "bookmaker": "SuperBook",
+    "ev": 0.0061281337047356665,
+    "odds": 1.29
+}, {
+    "team": "New Orleans Pelicans",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.009864135492276382,
+    "odds": 3.8
+}, {
+    "team": "Oklahoma City Thunder",
+    "bookmaker": "PointsBet (US)",
+    "ev": 0.0061281337047356665,
+    "odds": 1.29
+}, {
+    "team": "New Orleans Pelicans",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.022892238972641143,
+    "odds": 3.75
+}, {
+    "team": "Oklahoma City Thunder",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.0016713091922002654,
+    "odds": 1.28
+}, {
+    "team": "New Orleans Pelicans",
+    "bookmaker": "BetRivers",
+    "ev": 0.0031639679880884897,
+    "odds": 3.85
+}, {
+    "team": "Oklahoma City Thunder",
+    "bookmaker": "BetRivers",
+    "ev": -0.0016713091922002654,
+    "odds": 1.28
+}, {
+    "team": "New Orleans Pelicans",
+    "bookmaker": "Unibet",
+    "ev": 0.0031639679880884897,
+    "odds": 3.85
+}, {
+    "team": "Oklahoma City Thunder",
+    "bookmaker": "Unibet",
+    "ev": -0.0016713091922002654,
+    "odds": 1.28
+}, {
+    "team": "New Orleans Pelicans",
+    "bookmaker": "Bovada",
+    "ev": 0.029220174948818123,
+    "odds": 3.95
+}, {
+    "team": "Oklahoma City Thunder",
+    "bookmaker": "Bovada",
+    "ev": -0.017270194986072157,
+    "odds": 1.26
+}, {
+    "team": "New Orleans Pelicans",
+    "bookmaker": "BetMGM",
+    "ev": -0.009864135492276382,
+    "odds": 3.8
+}, {
+    "team": "Oklahoma City Thunder",
+    "bookmaker": "BetMGM",
+    "ev": 0.0061281337047356665,
+    "odds": 1.29
+}, {
+    "team": "New Orleans Pelicans",
+    "bookmaker": "WynnBET",
+    "ev": 0.0031639679880884897,
+    "odds": 3.85
+}, {
+    "team": "Oklahoma City Thunder",
+    "bookmaker": "WynnBET",
+    "ev": 0.0061281337047356665,
+    "odds": 1.29
+}, {
+    "team": "New Orleans Pelicans",
+    "bookmaker": "BetUS",
+    "ev": -0.009864135492276382,
+    "odds": 3.8
+}, {
+    "team": "Oklahoma City Thunder",
+    "bookmaker": "BetUS",
+    "ev": 0.0061281337047356665,
+    "odds": 1.29
+}, {
+    "team": "Cleveland Cavaliers",
+    "bookmaker": "DraftKings",
+    "ev": 0.012806830309498307,
+    "odds": 1.46
+}, {
+    "team": "Orlando Magic",
+    "bookmaker": "DraftKings",
+    "ev": -0.0267379679144385,
+    "odds": 2.8
+}, {
+    "team": "Cleveland Cavaliers",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.012806830309498307,
+    "odds": 1.46
+}, {
+    "team": "Orlando Magic",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.008021390374331583,
+    "odds": 2.9
+}, {
+    "team": "Cleveland Cavaliers",
+    "bookmaker": "FanDuel",
+    "ev": -0.008004268943436643,
+    "odds": 1.43
+}, {
+    "team": "Orlando Magic",
+    "bookmaker": "FanDuel",
+    "ev": 0.021925133689839615,
+    "odds": 2.94
+}, {
+    "team": "Cleveland Cavaliers",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.001067235859124993,
+    "odds": 1.44
+}, {
+    "team": "Orlando Magic",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.009358288770053402,
+    "odds": 2.85
+}, {
+    "team": "Cleveland Cavaliers",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.005869797225186657,
+    "odds": 1.45
+}, {
+    "team": "Orlando Magic",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.008021390374331583,
+    "odds": 2.9
+}, {
+    "team": "Cleveland Cavaliers",
+    "bookmaker": "Caesars",
+    "ev": -0.001067235859124993,
+    "odds": 1.44
+}, {
+    "team": "Orlando Magic",
+    "bookmaker": "Caesars",
+    "ev": -0.009358288770053402,
+    "odds": 2.85
+}, {
+    "team": "Cleveland Cavaliers",
+    "bookmaker": "SuperBook",
+    "ev": 0.019743863393809957,
+    "odds": 1.47
+}, {
+    "team": "Orlando Magic",
+    "bookmaker": "SuperBook",
+    "ev": -0.009358288770053402,
+    "odds": 2.85
+}, {
+    "team": "Cleveland Cavaliers",
+    "bookmaker": "Bovada",
+    "ev": 0.005869797225186657,
+    "odds": 1.45
+}, {
+    "team": "Orlando Magic",
+    "bookmaker": "Bovada",
+    "ev": -0.0267379679144385,
+    "odds": 2.8
+}, {
+    "team": "Cleveland Cavaliers",
+    "bookmaker": "BetRivers",
+    "ev": -0.021878335112059888,
+    "odds": 1.41
+}, {
+    "team": "Orlando Magic",
+    "bookmaker": "BetRivers",
+    "ev": 0.042780748663101664,
+    "odds": 3.0
+}, {
+    "team": "Cleveland Cavaliers",
+    "bookmaker": "Unibet",
+    "ev": -0.021878335112059888,
+    "odds": 1.41
+}, {
+    "team": "Orlando Magic",
+    "bookmaker": "Unibet",
+    "ev": 0.042780748663101664,
+    "odds": 3.0
+}, {
+    "team": "Cleveland Cavaliers",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.014941302027748238,
+    "odds": 1.42
+}, {
+    "team": "Orlando Magic",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.023262032085561435,
+    "odds": 2.81
+}, {
+    "team": "Cleveland Cavaliers",
+    "bookmaker": "WynnBET",
+    "ev": 0.012806830309498307,
+    "odds": 1.46
+}, {
+    "team": "Orlando Magic",
+    "bookmaker": "WynnBET",
+    "ev": -0.009358288770053402,
+    "odds": 2.85
+}, {
+    "team": "Cleveland Cavaliers",
+    "bookmaker": "BetMGM",
+    "ev": -0.001067235859124993,
+    "odds": 1.44
+}, {
+    "team": "Orlando Magic",
+    "bookmaker": "BetMGM",
+    "ev": -0.009358288770053402,
+    "odds": 2.85
+}, {
+    "team": "New York Knicks",
+    "bookmaker": "DraftKings",
+    "ev": 0.018153526970954292,
+    "odds": 1.51
+}, {
+    "team": "Philadelphia 76ers",
+    "bookmaker": "DraftKings",
+    "ev": -0.03160270880361182,
+    "odds": 2.64
+}, {
+    "team": "New York Knicks",
+    "bookmaker": "PointsBet (US)",
+    "ev": 0.011410788381742643,
+    "odds": 1.5
+}, {
+    "team": "Philadelphia 76ers",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.027934537246049884,
+    "odds": 2.65
+}, {
+    "team": "New York Knicks",
+    "bookmaker": "BetOnline.ag",
+    "ev": -0.0020746887966806016,
+    "odds": 1.48
+}, {
+    "team": "Philadelphia 76ers",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.02708803611738131,
+    "odds": 2.8
+}, {
+    "team": "New York Knicks",
+    "bookmaker": "LowVig.ag",
+    "ev": -0.0020746887966806016,
+    "odds": 1.48
+}, {
+    "team": "Philadelphia 76ers",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.02708803611738131,
+    "odds": 2.8
+}, {
+    "team": "New York Knicks",
+    "bookmaker": "FanDuel",
+    "ev": -0.008817427385892251,
+    "odds": 1.47
+}, {
+    "team": "Philadelphia 76ers",
+    "bookmaker": "FanDuel",
+    "ev": 0.02708803611738131,
+    "odds": 2.8
+}, {
+    "team": "New York Knicks",
+    "bookmaker": "BetMGM",
+    "ev": -0.0020746887966806016,
+    "odds": 1.48
+}, {
+    "team": "Philadelphia 76ers",
+    "bookmaker": "BetMGM",
+    "ev": -0.009593679458239301,
+    "odds": 2.7
+}, {
+    "team": "New York Knicks",
+    "bookmaker": "Bovada",
+    "ev": 0.018153526970954292,
+    "odds": 1.51
+}, {
+    "team": "Philadelphia 76ers",
+    "bookmaker": "Bovada",
+    "ev": -0.027934537246049884,
+    "odds": 2.65
+}, {
+    "team": "New York Knicks",
+    "bookmaker": "Caesars",
+    "ev": 0.004668049792530993,
+    "odds": 1.49
+}, {
+    "team": "Philadelphia 76ers",
+    "bookmaker": "Caesars",
+    "ev": -0.009593679458239301,
+    "odds": 2.7
+}, {
+    "team": "New York Knicks",
+    "bookmaker": "WynnBET",
+    "ev": 0.011410788381742643,
+    "odds": 1.5
+}, {
+    "team": "Philadelphia 76ers",
+    "bookmaker": "WynnBET",
+    "ev": -0.009593679458239301,
+    "odds": 2.7
+}, {
+    "team": "New York Knicks",
+    "bookmaker": "Unibet",
+    "ev": -0.02904564315352709,
+    "odds": 1.44
+}, {
+    "team": "Philadelphia 76ers",
+    "bookmaker": "Unibet",
+    "ev": 0.04542889390519178,
+    "odds": 2.85
+}, {
+    "team": "New York Knicks",
+    "bookmaker": "BetRivers",
+    "ev": -0.02904564315352709,
+    "odds": 1.44
+}, {
+    "team": "Philadelphia 76ers",
+    "bookmaker": "BetRivers",
+    "ev": 0.04542889390519178,
+    "odds": 2.85
+}, {
+    "team": "New York Knicks",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.0020746887966806016,
+    "odds": 1.48
+}, {
+    "team": "Philadelphia 76ers",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.046275395033860134,
+    "odds": 2.6
+}, {
+    "team": "New York Knicks",
+    "bookmaker": "SuperBook",
+    "ev": 0.011410788381742643,
+    "odds": 1.5
+}, {
+    "team": "Philadelphia 76ers",
+    "bookmaker": "SuperBook",
+    "ev": -0.009593679458239301,
+    "odds": 2.7
+}, {
+    "team": "Denver Nuggets",
+    "bookmaker": "DraftKings",
+    "ev": 0.02280501710376276,
+    "odds": 1.38
+}, {
+    "team": "Los Angeles Lakers",
+    "bookmaker": "DraftKings",
+    "ev": -0.05449087970445621,
+    "odds": 3.15
+}, {
+    "team": "Denver Nuggets",
+    "bookmaker": "LowVig.ag",
+    "ev": -0.0068415051311287445,
+    "odds": 1.34
+}, {
+    "team": "Los Angeles Lakers",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.035557607942738545,
+    "odds": 3.45
+}, {
+    "team": "Denver Nuggets",
+    "bookmaker": "BetMGM",
+    "ev": 0.007981755986317063,
+    "odds": 1.36
+}, {
+    "team": "Los Angeles Lakers",
+    "bookmaker": "BetMGM",
+    "ev": -0.009466635880858831,
+    "odds": 3.3
+}, {
+    "team": "Denver Nuggets",
+    "bookmaker": "FanDuel",
+    "ev": -0.0068415051311287445,
+    "odds": 1.34
+}, {
+    "team": "Los Angeles Lakers",
+    "bookmaker": "FanDuel",
+    "ev": 0.020549526668206086,
+    "odds": 3.4
+}, {
+    "team": "Denver Nuggets",
+    "bookmaker": "BetOnline.ag",
+    "ev": -0.0068415051311287445,
+    "odds": 1.34
+}, {
+    "team": "Los Angeles Lakers",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.035557607942738545,
+    "odds": 3.45
+}, {
+    "team": "Denver Nuggets",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.0068415051311287445,
+    "odds": 1.34
+}, {
+    "team": "Los Angeles Lakers",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.009466635880858831,
+    "odds": 3.3
+}, {
+    "team": "Denver Nuggets",
+    "bookmaker": "Caesars",
+    "ev": -0.014253135689851704,
+    "odds": 1.33
+}, {
+    "team": "Los Angeles Lakers",
+    "bookmaker": "Caesars",
+    "ev": 0.020549526668206086,
+    "odds": 3.4
+}, {
+    "team": "Denver Nuggets",
+    "bookmaker": "Bovada",
+    "ev": 0.0005701254275941592,
+    "odds": 1.35
+}, {
+    "team": "Los Angeles Lakers",
+    "bookmaker": "Bovada",
+    "ev": 0.005541445393673627,
+    "odds": 3.35
+}, {
+    "team": "Denver Nuggets",
+    "bookmaker": "BetRivers",
+    "ev": 0.0005701254275941592,
+    "odds": 1.35
+}, {
+    "team": "Los Angeles Lakers",
+    "bookmaker": "BetRivers",
+    "ev": -0.009466635880858831,
+    "odds": 3.3
+}, {
+    "team": "Denver Nuggets",
+    "bookmaker": "Unibet",
+    "ev": 0.0005701254275941592,
+    "odds": 1.35
+}, {
+    "team": "Los Angeles Lakers",
+    "bookmaker": "Unibet",
+    "ev": -0.009466635880858831,
+    "odds": 3.3
+}, {
+    "team": "Denver Nuggets",
+    "bookmaker": "WynnBET",
+    "ev": 0.007981755986317063,
+    "odds": 1.36
+}, {
+    "team": "Los Angeles Lakers",
+    "bookmaker": "WynnBET",
+    "ev": -0.009466635880858831,
+    "odds": 3.3
+}, {
+    "team": "Denver Nuggets",
+    "bookmaker": "SuperBook",
+    "ev": 0.007981755986317063,
+    "odds": 1.36
+}, {
+    "team": "Los Angeles Lakers",
+    "bookmaker": "SuperBook",
+    "ev": 0.020549526668206086,
+    "odds": 3.4
+}, {
+    "team": "Denver Nuggets",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.0068415051311287445,
+    "odds": 1.34
+}, {
+    "team": "Los Angeles Lakers",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.03648118217501728,
+    "odds": 3.21
+}, {
+    "team": "Minnesota Timberwolves",
+    "bookmaker": "DraftKings",
+    "ev": 0.013457076566125104,
+    "odds": 1.68
+}, {
+    "team": "Phoenix Suns",
+    "bookmaker": "DraftKings",
+    "ev": -0.020847343644922467,
+    "odds": 2.24
+}, {
+    "team": "Minnesota Timberwolves",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.013457076566125104,
+    "odds": 1.68
+}, {
+    "team": "Phoenix Suns",
+    "bookmaker": "LowVig.ag",
+    "ev": -0.007733691997309888,
+    "odds": 2.27
+}, {
+    "team": "Minnesota Timberwolves",
+    "bookmaker": "FanDuel",
+    "ev": -0.00464037122969857,
+    "odds": 1.65
+}, {
+    "team": "Phoenix Suns",
+    "bookmaker": "FanDuel",
+    "ev": 0.00537995965030269,
+    "odds": 2.3
+}, {
+    "team": "Minnesota Timberwolves",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.013457076566125104,
+    "odds": 1.68
+}, {
+    "team": "Phoenix Suns",
+    "bookmaker": "BetOnline.ag",
+    "ev": -0.007733691997309888,
+    "odds": 2.27
+}, {
+    "team": "Minnesota Timberwolves",
+    "bookmaker": "PointsBet (US)",
+    "ev": 0.007424593967517212,
+    "odds": 1.67
+}, {
+    "team": "Phoenix Suns",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.01647612642905172,
+    "odds": 2.25
+}, {
+    "team": "Minnesota Timberwolves",
+    "bookmaker": "Caesars",
+    "ev": -0.00464037122969857,
+    "odds": 1.65
+}, {
+    "team": "Phoenix Suns",
+    "bookmaker": "Caesars",
+    "ev": 0.00537995965030269,
+    "odds": 2.3
+}, {
+    "team": "Minnesota Timberwolves",
+    "bookmaker": "Bovada",
+    "ev": 0.007424593967517212,
+    "odds": 1.67
+}, {
+    "team": "Phoenix Suns",
+    "bookmaker": "Bovada",
+    "ev": 0.00537995965030269,
+    "odds": 2.3
+}, {
+    "team": "Minnesota Timberwolves",
+    "bookmaker": "WynnBET",
+    "ev": 0.007424593967517212,
+    "odds": 1.67
+}, {
+    "team": "Phoenix Suns",
+    "bookmaker": "WynnBET",
+    "ev": -0.00336247478143914,
+    "odds": 2.28
+}, {
+    "team": "Minnesota Timberwolves",
+    "bookmaker": "Unibet",
+    "ev": -0.034802784222737915,
+    "odds": 1.6
+}, {
+    "team": "Phoenix Suns",
+    "bookmaker": "Unibet",
+    "ev": 0.04909213180901151,
+    "odds": 2.4
+}, {
+    "team": "Minnesota Timberwolves",
+    "bookmaker": "BetRivers",
+    "ev": -0.034802784222737915,
+    "odds": 1.6
+}, {
+    "team": "Phoenix Suns",
+    "bookmaker": "BetRivers",
+    "ev": 0.04909213180901151,
+    "odds": 2.4
+}, {
+    "team": "Minnesota Timberwolves",
+    "bookmaker": "SuperBook",
+    "ev": 0.007424593967517212,
+    "odds": 1.67
+}, {
+    "team": "Phoenix Suns",
+    "bookmaker": "SuperBook",
+    "ev": 0.00537995965030269,
+    "odds": 2.3
+}, {
+    "team": "Minnesota Timberwolves",
+    "bookmaker": "BetMGM",
+    "ev": 0.007424593967517212,
+    "odds": 1.67
+}, {
+    "team": "Phoenix Suns",
+    "bookmaker": "BetMGM",
+    "ev": -0.01647612642905172,
+    "odds": 2.25
+}, {
+    "team": "Minnesota Timberwolves",
+    "bookmaker": "MyBookie.ag",
+    "ev": 0.0013921113689093212,
+    "odds": 1.66
+}, {
+    "team": "Phoenix Suns",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.047074646940147735,
+    "odds": 2.18
+}, {
+    "team": "Florida Panthers",
+    "bookmaker": "DraftKings",
+    "ev": -0.004472271914132353,
+    "odds": 1.59
+}, {
+    "team": "Tampa Bay Lightning",
+    "bookmaker": "DraftKings",
+    "ev": -0.002649396526346659,
+    "odds": 2.42
+}, {
+    "team": "Florida Panthers",
+    "bookmaker": "PointsBet (US)",
+    "ev": 0.014311270125223652,
+    "odds": 1.62
+}, {
+    "team": "Tampa Bay Lightning",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.052104798351486514,
+    "odds": 2.3
+}, {
+    "team": "Florida Panthers",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.004472271914132353,
+    "odds": 1.59
+}, {
+    "team": "Tampa Bay Lightning",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.019134530468059907,
+    "odds": 2.38
+}, {
+    "team": "Florida Panthers",
+    "bookmaker": "BetRivers",
+    "ev": 0.001788908765653019,
+    "odds": 1.6
+}, {
+    "team": "Tampa Bay Lightning",
+    "bookmaker": "BetRivers",
+    "ev": -0.019134530468059907,
+    "odds": 2.38
+}, {
+    "team": "Florida Panthers",
+    "bookmaker": "Unibet",
+    "ev": 0.001788908765653019,
+    "odds": 1.6
+}, {
+    "team": "Tampa Bay Lightning",
+    "bookmaker": "Unibet",
+    "ev": -0.019134530468059907,
+    "odds": 2.38
+}, {
+    "team": "Florida Panthers",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.001788908765653019,
+    "odds": 1.6
+}, {
+    "team": "Tampa Bay Lightning",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.02207830438622327,
+    "odds": 2.48
+}, {
+    "team": "Florida Panthers",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.001788908765653019,
+    "odds": 1.6
+}, {
+    "team": "Tampa Bay Lightning",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.02207830438622327,
+    "odds": 2.48
+}, {
+    "team": "Florida Panthers",
+    "bookmaker": "Caesars",
+    "ev": -0.016994633273702986,
+    "odds": 1.57
+}, {
+    "team": "Tampa Bay Lightning",
+    "bookmaker": "Caesars",
+    "ev": 0.02207830438622327,
+    "odds": 2.48
+}, {
+    "team": "Florida Panthers",
+    "bookmaker": "FanDuel",
+    "ev": -0.004472271914132353,
+    "odds": 1.59
+}, {
+    "team": "Tampa Bay Lightning",
+    "bookmaker": "FanDuel",
+    "ev": -0.010891963497203339,
+    "odds": 2.4
+}, {
+    "team": "Florida Panthers",
+    "bookmaker": "SuperBook",
+    "ev": 0.008050089445438335,
+    "odds": 1.61
+}, {
+    "team": "Tampa Bay Lightning",
+    "bookmaker": "SuperBook",
+    "ev": 0.009714453929938416,
+    "odds": 2.45
+}, {
+    "team": "Florida Panthers",
+    "bookmaker": "BetUS",
+    "ev": 0.008050089445438335,
+    "odds": 1.61
+}, {
+    "team": "Tampa Bay Lightning",
+    "bookmaker": "BetUS",
+    "ev": 0.009714453929938416,
+    "odds": 2.45
+}, {
+    "team": "Florida Panthers",
+    "bookmaker": "BetMGM",
+    "ev": -0.016994633273702986,
+    "odds": 1.57
+}, {
+    "team": "Tampa Bay Lightning",
+    "bookmaker": "BetMGM",
+    "ev": 0.009714453929938416,
+    "odds": 2.45
+}, {
+    "team": "Florida Panthers",
+    "bookmaker": "Bovada",
+    "ev": 0.001788908765653019,
+    "odds": 1.6
+}, {
+    "team": "Tampa Bay Lightning",
+    "bookmaker": "Bovada",
+    "ev": -0.002649396526346659,
+    "odds": 2.42
+}, {
+    "team": "Florida Panthers",
+    "bookmaker": "WynnBET",
+    "ev": 0.008050089445438335,
+    "odds": 1.61
+}, {
+    "team": "Tampa Bay Lightning",
+    "bookmaker": "WynnBET",
+    "ev": 0.030320871357079948,
+    "odds": 2.5
+}, {
+    "team": "New York Rangers",
+    "bookmaker": "DraftKings",
+    "ev": -0.0035087719298246833,
+    "odds": 1.42
+}, {
+    "team": "Washington Capitals",
+    "bookmaker": "DraftKings",
+    "ev": -0.0014506769825918253,
+    "odds": 2.95
+}, {
+    "team": "New York Rangers",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.0035087719298246833,
+    "odds": 1.42
+}, {
+    "team": "Washington Capitals",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.01837524177949712,
+    "odds": 2.9
+}, {
+    "team": "New York Rangers",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.0035087719298246833,
+    "odds": 1.42
+}, {
+    "team": "Washington Capitals",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.01837524177949712,
+    "odds": 2.9
+}, {
+    "team": "New York Rangers",
+    "bookmaker": "BetRivers",
+    "ev": 0.0035087719298244613,
+    "odds": 1.43
+}, {
+    "team": "Washington Capitals",
+    "bookmaker": "BetRivers",
+    "ev": -0.01837524177949712,
+    "odds": 2.9
+}, {
+    "team": "New York Rangers",
+    "bookmaker": "Unibet",
+    "ev": 0.0035087719298244613,
+    "odds": 1.43
+}, {
+    "team": "Washington Capitals",
+    "bookmaker": "Unibet",
+    "ev": -0.01837524177949712,
+    "odds": 2.9
+}, {
+    "team": "New York Rangers",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.010526315789473606,
+    "odds": 1.44
+}, {
+    "team": "Washington Capitals",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.015473887814313358,
+    "odds": 3.0
+}, {
+    "team": "New York Rangers",
+    "bookmaker": "Caesars",
+    "ev": -0.017543859649122917,
+    "odds": 1.4
+}, {
+    "team": "Washington Capitals",
+    "bookmaker": "Caesars",
+    "ev": 0.03239845261121854,
+    "odds": 3.05
+}, {
+    "team": "New York Rangers",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.010526315789473606,
+    "odds": 1.44
+}, {
+    "team": "Washington Capitals",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.015473887814313358,
+    "odds": 3.0
+}, {
+    "team": "New York Rangers",
+    "bookmaker": "FanDuel",
+    "ev": 0.0035087719298244613,
+    "odds": 1.43
+}, {
+    "team": "Washington Capitals",
+    "bookmaker": "FanDuel",
+    "ev": -0.025145067698259194,
+    "odds": 2.88
+}, {
+    "team": "New York Rangers",
+    "bookmaker": "SuperBook",
+    "ev": 0.0035087719298244613,
+    "odds": 1.43
+}, {
+    "team": "Washington Capitals",
+    "bookmaker": "SuperBook",
+    "ev": -0.0014506769825918253,
+    "odds": 2.95
+}, {
+    "team": "New York Rangers",
+    "bookmaker": "BetUS",
+    "ev": 0.0035087719298244613,
+    "odds": 1.43
+}, {
+    "team": "Washington Capitals",
+    "bookmaker": "BetUS",
+    "ev": -0.01837524177949712,
+    "odds": 2.9
+}, {
+    "team": "New York Rangers",
+    "bookmaker": "BetMGM",
+    "ev": -0.017543859649122917,
+    "odds": 1.4
+}, {
+    "team": "Washington Capitals",
+    "bookmaker": "BetMGM",
+    "ev": 0.015473887814313358,
+    "odds": 3.0
+}, {
+    "team": "New York Rangers",
+    "bookmaker": "Bovada",
+    "ev": -0.0035087719298246833,
+    "odds": 1.42
+}, {
+    "team": "Washington Capitals",
+    "bookmaker": "Bovada",
+    "ev": 0.015473887814313358,
+    "odds": 3.0
+}, {
+    "team": "New York Rangers",
+    "bookmaker": "WynnBET",
+    "ev": 0.010526315789473606,
+    "odds": 1.44
+}, {
+    "team": "Washington Capitals",
+    "bookmaker": "WynnBET",
+    "ev": 0.02562862669245647,
+    "odds": 3.03
+}, {
+    "team": "Colorado Avalanche",
+    "bookmaker": "DraftKings",
+    "ev": 0.009242144177449119,
+    "odds": 1.95
+}, {
+    "team": "Winnipeg Jets",
+    "bookmaker": "DraftKings",
+    "ev": -0.019108280254776955,
+    "odds": 1.87
+}, {
+    "team": "Colorado Avalanche",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.004066543438077608,
+    "odds": 1.94
+}, {
+    "team": "Winnipeg Jets",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.0176095916073436,
+    "odds": 1.94
+}, {
+    "team": "Colorado Avalanche",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.004066543438077608,
+    "odds": 1.94
+}, {
+    "team": "Winnipeg Jets",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.0176095916073436,
+    "odds": 1.94
+}, {
+    "team": "Colorado Avalanche",
+    "bookmaker": "FanDuel",
+    "ev": 0.009242144177449119,
+    "odds": 1.95
+}, {
+    "team": "Winnipeg Jets",
+    "bookmaker": "FanDuel",
+    "ev": -0.013862869988759852,
+    "odds": 1.88
+}, {
+    "team": "Colorado Avalanche",
+    "bookmaker": "Caesars",
+    "ev": -0.011460258780037036,
+    "odds": 1.91
+}, {
+    "team": "Winnipeg Jets",
+    "bookmaker": "Caesars",
+    "ev": 0.0018733608092919019,
+    "odds": 1.91
+}, {
+    "team": "Colorado Avalanche",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.011460258780037036,
+    "odds": 1.91
+}, {
+    "team": "Winnipeg Jets",
+    "bookmaker": "PointsBet (US)",
+    "ev": 0.0018733608092919019,
+    "odds": 1.91
+}, {
+    "team": "Colorado Avalanche",
+    "bookmaker": "Bovada",
+    "ev": -0.0011090573012939586,
+    "odds": 1.93
+}, {
+    "team": "Winnipeg Jets",
+    "bookmaker": "Bovada",
+    "ev": -0.008617459722742582,
+    "odds": 1.89
+}, {
+    "team": "Colorado Avalanche",
+    "bookmaker": "MyBookie.ag",
+    "ev": 0.004066543438077608,
+    "odds": 1.94
+}, {
+    "team": "Winnipeg Jets",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.019108280254776955,
+    "odds": 1.87
+}, {
+    "team": "Colorado Avalanche",
+    "bookmaker": "BetRivers",
+    "ev": -0.0011090573012939586,
+    "odds": 1.93
+}, {
+    "team": "Winnipeg Jets",
+    "bookmaker": "BetRivers",
+    "ev": -0.013862869988759852,
+    "odds": 1.88
+}, {
+    "team": "Colorado Avalanche",
+    "bookmaker": "Unibet",
+    "ev": -0.0011090573012939586,
+    "odds": 1.93
+}, {
+    "team": "Winnipeg Jets",
+    "bookmaker": "Unibet",
+    "ev": -0.013862869988759852,
+    "odds": 1.88
+}, {
+    "team": "Colorado Avalanche",
+    "bookmaker": "BetUS",
+    "ev": -0.011460258780037036,
+    "odds": 1.91
+}, {
+    "team": "Winnipeg Jets",
+    "bookmaker": "BetUS",
+    "ev": 0.0018733608092919019,
+    "odds": 1.91
+}, {
+    "team": "Colorado Avalanche",
+    "bookmaker": "SuperBook",
+    "ev": 0.009242144177449119,
+    "odds": 1.95
+}, {
+    "team": "Winnipeg Jets",
+    "bookmaker": "SuperBook",
+    "ev": 0.02285500187336087,
+    "odds": 1.95
+}, {
+    "team": "Colorado Avalanche",
+    "bookmaker": "BetMGM",
+    "ev": -0.011460258780037036,
+    "odds": 1.91
+}, {
+    "team": "Winnipeg Jets",
+    "bookmaker": "BetMGM",
+    "ev": 0.0018733608092919019,
+    "odds": 1.91
+}, {
+    "team": "Colorado Avalanche",
+    "bookmaker": "WynnBET",
+    "ev": 0.009242144177449119,
+    "odds": 1.95
+}, {
+    "team": "Winnipeg Jets",
+    "bookmaker": "WynnBET",
+    "ev": 0.02285500187336087,
+    "odds": 1.95
+}, {
+    "team": "Nashville Predators",
+    "bookmaker": "DraftKings",
+    "ev": 1.1102230246251565e-16,
+    "odds": 2.24
+}, {
+    "team": "Vancouver Canucks",
+    "bookmaker": "DraftKings",
+    "ev": -0.0016977928692700761,
+    "odds": 1.68
+}, {
+    "team": "Nashville Predators",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.004464285714285698,
+    "odds": 2.25
+}, {
+    "team": "Vancouver Canucks",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.01612903225806439,
+    "odds": 1.71
+}, {
+    "team": "Nashville Predators",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.004464285714285698,
+    "odds": 2.25
+}, {
+    "team": "Vancouver Canucks",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.01612903225806439,
+    "odds": 1.71
+}, {
+    "team": "Nashville Predators",
+    "bookmaker": "FanDuel",
+    "ev": 0.004464285714285698,
+    "odds": 2.25
+}, {
+    "team": "Vancouver Canucks",
+    "bookmaker": "FanDuel",
+    "ev": -0.007640067911714898,
+    "odds": 1.67
+}, {
+    "team": "Nashville Predators",
+    "bookmaker": "Caesars",
+    "ev": -0.008928571428571397,
+    "odds": 2.22
+}, {
+    "team": "Vancouver Canucks",
+    "bookmaker": "Caesars",
+    "ev": 0.004244482173174746,
+    "odds": 1.69
+}, {
+    "team": "Nashville Predators",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.017857142857142794,
+    "odds": 2.2
+}, {
+    "team": "Vancouver Canucks",
+    "bookmaker": "PointsBet (US)",
+    "ev": 0.004244482173174746,
+    "odds": 1.69
+}, {
+    "team": "Nashville Predators",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.013392857142857206,
+    "odds": 2.21
+}, {
+    "team": "Vancouver Canucks",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.007640067911714898,
+    "odds": 1.67
+}, {
+    "team": "Nashville Predators",
+    "bookmaker": "BetRivers",
+    "ev": 0.004464285714285698,
+    "odds": 2.25
+}, {
+    "team": "Vancouver Canucks",
+    "bookmaker": "BetRivers",
+    "ev": -0.019524617996604543,
+    "odds": 1.65
+}, {
+    "team": "Nashville Predators",
+    "bookmaker": "Unibet",
+    "ev": 0.004464285714285698,
+    "odds": 2.25
+}, {
+    "team": "Vancouver Canucks",
+    "bookmaker": "Unibet",
+    "ev": -0.019524617996604543,
+    "odds": 1.65
+}, {
+    "team": "Nashville Predators",
+    "bookmaker": "BetUS",
+    "ev": 0.004464285714285698,
+    "odds": 2.25
+}, {
+    "team": "Vancouver Canucks",
+    "bookmaker": "BetUS",
+    "ev": 0.004244482173174746,
+    "odds": 1.69
+}, {
+    "team": "Nashville Predators",
+    "bookmaker": "SuperBook",
+    "ev": 0.004464285714285698,
+    "odds": 2.25
+}, {
+    "team": "Vancouver Canucks",
+    "bookmaker": "SuperBook",
+    "ev": 0.01612903225806439,
+    "odds": 1.71
+}, {
+    "team": "Nashville Predators",
+    "bookmaker": "BetMGM",
+    "ev": -0.017857142857142794,
+    "odds": 2.2
+}, {
+    "team": "Vancouver Canucks",
+    "bookmaker": "BetMGM",
+    "ev": 0.004244482173174746,
+    "odds": 1.69
+}, {
+    "team": "Nashville Predators",
+    "bookmaker": "WynnBET",
+    "ev": 0.013392857142857095,
+    "odds": 2.27
+}, {
+    "team": "Vancouver Canucks",
+    "bookmaker": "WynnBET",
+    "ev": -0.007640067911714898,
+    "odds": 1.67
+}, {
+    "team": "Nashville Predators",
+    "bookmaker": "Bovada",
+    "ev": 0.013392857142857095,
+    "odds": 2.27
+}, {
+    "team": "Vancouver Canucks",
+    "bookmaker": "Bovada",
+    "ev": -0.0016977928692700761,
+    "odds": 1.68
+}, {
+    "team": "Boston Bruins",
+    "bookmaker": "DraftKings",
+    "ev": 0.007235890014471946,
+    "odds": 1.74
+}, {
+    "team": "Toronto Maple Leafs",
+    "bookmaker": "DraftKings",
+    "ev": -0.01078582434514641,
+    "odds": 2.14
+}, {
+    "team": "Boston Bruins",
+    "bookmaker": "FanDuel",
+    "ev": 0.0014471780028945114,
+    "odds": 1.73
+}, {
+    "team": "Toronto Maple Leafs",
+    "bookmaker": "FanDuel",
+    "ev": -0.01078582434514641,
+    "odds": 2.14
+}, {
+    "team": "Boston Bruins",
+    "bookmaker": "BetRivers",
+    "ev": -0.010130246020260358,
+    "odds": 1.71
+}, {
+    "team": "Toronto Maple Leafs",
+    "bookmaker": "BetRivers",
+    "ev": -0.0015408320493066618,
+    "odds": 2.16
+}, {
+    "team": "Boston Bruins",
+    "bookmaker": "Unibet",
+    "ev": -0.010130246020260358,
+    "odds": 1.71
+}, {
+    "team": "Toronto Maple Leafs",
+    "bookmaker": "Unibet",
+    "ev": -0.0015408320493066618,
+    "odds": 2.16
+}, {
+    "team": "Boston Bruins",
+    "bookmaker": "Caesars",
+    "ev": 0.007235890014471946,
+    "odds": 1.74
+}, {
+    "team": "Toronto Maple Leafs",
+    "bookmaker": "Caesars",
+    "ev": -0.006163328197226647,
+    "odds": 2.15
+}, {
+    "team": "Boston Bruins",
+    "bookmaker": "SuperBook",
+    "ev": 0.007235890014471946,
+    "odds": 1.74
+}, {
+    "team": "Toronto Maple Leafs",
+    "bookmaker": "SuperBook",
+    "ev": 0.02157164869029271,
+    "odds": 2.21
+}, {
+    "team": "Boston Bruins",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.010130246020260358,
+    "odds": 1.71
+}, {
+    "team": "Toronto Maple Leafs",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.006163328197226647,
+    "odds": 2.15
+}, {
+    "team": "Boston Bruins",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.0043415340086829235,
+    "odds": 1.72
+}, {
+    "team": "Toronto Maple Leafs",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.033898305084745894,
+    "odds": 2.09
+}, {
+    "team": "Boston Bruins",
+    "bookmaker": "BetOnline.ag",
+    "ev": -0.0043415340086829235,
+    "odds": 1.72
+}, {
+    "team": "Toronto Maple Leafs",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.03081664098613246,
+    "odds": 2.23
+}, {
+    "team": "Boston Bruins",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.0014471780028945114,
+    "odds": 1.73
+}, {
+    "team": "Toronto Maple Leafs",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.03081664098613246,
+    "odds": 2.23
+}, {
+    "team": "Boston Bruins",
+    "bookmaker": "BetMGM",
+    "ev": 0.007235890014471946,
+    "odds": 1.74
+}, {
+    "team": "Toronto Maple Leafs",
+    "bookmaker": "BetMGM",
+    "ev": -0.006163328197226647,
+    "odds": 2.15
+}, {
+    "team": "Boston Bruins",
+    "bookmaker": "Bovada",
+    "ev": 0.007235890014471946,
+    "odds": 1.74
+}, {
+    "team": "Toronto Maple Leafs",
+    "bookmaker": "Bovada",
+    "ev": -0.006163328197226647,
+    "odds": 2.15
+}, {
+    "team": "Carolina Hurricanes",
+    "bookmaker": "DraftKings",
+    "ev": -0.01010101010101,
+    "odds": 1.4
+}, {
+    "team": "New York Islanders",
+    "bookmaker": "DraftKings",
+    "ev": 0.017151024297284434,
+    "odds": 3.05
+}, {
+    "team": "Carolina Hurricanes",
+    "bookmaker": "BetRivers",
+    "ev": 0.011111111111111238,
+    "odds": 1.43
+}, {
+    "team": "New York Islanders",
+    "bookmaker": "BetRivers",
+    "ev": -0.049547403525488254,
+    "odds": 2.85
+}, {
+    "team": "Carolina Hurricanes",
+    "bookmaker": "Unibet",
+    "ev": 0.011111111111111238,
+    "odds": 1.43
+}, {
+    "team": "New York Islanders",
+    "bookmaker": "Unibet",
+    "ev": -0.049547403525488254,
+    "odds": 2.85
+}, {
+    "team": "Carolina Hurricanes",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.004040404040404122,
+    "odds": 1.42
+}, {
+    "team": "New York Islanders",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.03382563125297777,
+    "odds": 3.1
+}, {
+    "team": "Carolina Hurricanes",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.004040404040404122,
+    "odds": 1.42
+}, {
+    "team": "New York Islanders",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.03382563125297777,
+    "odds": 3.1
+}, {
+    "team": "Carolina Hurricanes",
+    "bookmaker": "FanDuel",
+    "ev": -0.01717171717171706,
+    "odds": 1.39
+}, {
+    "team": "New York Islanders",
+    "bookmaker": "FanDuel",
+    "ev": 0.017151024297284434,
+    "odds": 3.05
+}, {
+    "team": "Carolina Hurricanes",
+    "bookmaker": "BetMGM",
+    "ev": -0.01010101010101,
+    "odds": 1.4
+}, {
+    "team": "New York Islanders",
+    "bookmaker": "BetMGM",
+    "ev": 0.00047641734159131754,
+    "odds": 3.0
+}, {
+    "team": "Carolina Hurricanes",
+    "bookmaker": "Caesars",
+    "ev": -0.01010101010101,
+    "odds": 1.4
+}, {
+    "team": "New York Islanders",
+    "bookmaker": "Caesars",
+    "ev": 0.017151024297284434,
+    "odds": 3.05
+}, {
+    "team": "Carolina Hurricanes",
+    "bookmaker": "BetUS",
+    "ev": 0.004040404040404122,
+    "odds": 1.42
+}, {
+    "team": "New York Islanders",
+    "bookmaker": "BetUS",
+    "ev": 0.00047641734159131754,
+    "odds": 3.0
+}, {
+    "team": "Carolina Hurricanes",
+    "bookmaker": "SuperBook",
+    "ev": 0.004040404040404122,
+    "odds": 1.42
+}, {
+    "team": "New York Islanders",
+    "bookmaker": "SuperBook",
+    "ev": 0.00047641734159131754,
+    "odds": 3.0
+}, {
+    "team": "Carolina Hurricanes",
+    "bookmaker": "WynnBET",
+    "ev": 0.004040404040404122,
+    "odds": 1.42
+}, {
+    "team": "New York Islanders",
+    "bookmaker": "WynnBET",
+    "ev": 0.05717008099094811,
+    "odds": 3.17
+}, {
+    "team": "Carolina Hurricanes",
+    "bookmaker": "PointsBet (US)",
+    "ev": 0.004040404040404122,
+    "odds": 1.42
+}, {
+    "team": "New York Islanders",
+    "bookmaker": "PointsBet (US)",
+    "ev": -0.03287279656979514,
+    "odds": 2.9
+}, {
+    "team": "Carolina Hurricanes",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.003030303030302939,
+    "odds": 1.41
+}, {
+    "team": "New York Islanders",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.0462124821343497,
+    "odds": 2.86
+}, {
+    "team": "Carolina Hurricanes",
+    "bookmaker": "Bovada",
+    "ev": 0.004040404040404122,
+    "odds": 1.42
+}, {
+    "team": "New York Islanders",
+    "bookmaker": "Bovada",
+    "ev": 0.00047641734159131754,
+    "odds": 3.0
+}, {
+    "team": "Dallas Stars",
+    "bookmaker": "DraftKings",
+    "ev": 0.01321003963011902,
+    "odds": 1.77
+}, {
+    "team": "Vegas Golden Knights",
+    "bookmaker": "DraftKings",
+    "ev": -0.01833872707659112,
+    "odds": 2.1
+}, {
+    "team": "Dallas Stars",
+    "bookmaker": "MyBookie.ag",
+    "ev": 0.007485689123734152,
+    "odds": 1.76
+}, {
+    "team": "Vegas Golden Knights",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.04638619201725991,
+    "odds": 2.04
+}, {
+    "team": "Dallas Stars",
+    "bookmaker": "BetRivers",
+    "ev": -0.009687362395420396,
+    "odds": 1.73
+}, {
+    "team": "Vegas Golden Knights",
+    "bookmaker": "BetRivers",
+    "ev": -0.008989572096368081,
+    "odds": 2.12
+}, {
+    "team": "Dallas Stars",
+    "bookmaker": "Unibet",
+    "ev": -0.009687362395420396,
+    "odds": 1.73
+}, {
+    "team": "Vegas Golden Knights",
+    "bookmaker": "Unibet",
+    "ev": -0.008989572096368081,
+    "odds": 2.12
+}, {
+    "team": "Dallas Stars",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.001761338617349284,
+    "odds": 1.75
+}, {
+    "team": "Vegas Golden Knights",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.019057892844300706,
+    "odds": 2.18
+}, {
+    "team": "Dallas Stars",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.001761338617349284,
+    "odds": 1.75
+}, {
+    "team": "Vegas Golden Knights",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.019057892844300706,
+    "odds": 2.18
+}, {
+    "team": "Dallas Stars",
+    "bookmaker": "Caesars",
+    "ev": -0.003963011889035528,
+    "odds": 1.74
+}, {
+    "team": "Vegas Golden Knights",
+    "bookmaker": "Caesars",
+    "ev": 0.005034160373966201,
+    "odds": 2.15
+}, {
+    "team": "Dallas Stars",
+    "bookmaker": "BetUS",
+    "ev": 0.01321003963011902,
+    "odds": 1.77
+}, {
+    "team": "Vegas Golden Knights",
+    "bookmaker": "BetUS",
+    "ev": -0.01833872707659112,
+    "odds": 2.1
+}, {
+    "team": "Dallas Stars",
+    "bookmaker": "SuperBook",
+    "ev": 0.01321003963011902,
+    "odds": 1.77
+}, {
+    "team": "Vegas Golden Knights",
+    "bookmaker": "SuperBook",
+    "ev": 0.005034160373966201,
+    "odds": 2.15
+}, {
+    "team": "Dallas Stars",
+    "bookmaker": "FanDuel",
+    "ev": -0.026860413914575,
+    "odds": 1.7
+}, {
+    "team": "Vegas Golden Knights",
+    "bookmaker": "FanDuel",
+    "ev": 0.019057892844300706,
+    "odds": 2.18
+}, {
+    "team": "Dallas Stars",
+    "bookmaker": "BetMGM",
+    "ev": -0.003963011889035528,
+    "odds": 1.74
+}, {
+    "team": "Vegas Golden Knights",
+    "bookmaker": "BetMGM",
+    "ev": 0.005034160373966201,
+    "odds": 2.15
+}, {
+    "team": "Dallas Stars",
+    "bookmaker": "WynnBET",
+    "ev": 0.024658740642888755,
+    "odds": 1.79
+}, {
+    "team": "Vegas Golden Knights",
+    "bookmaker": "WynnBET",
+    "ev": 0.0003595828838548476,
+    "odds": 2.14
+}, {
+    "team": "Dallas Stars",
+    "bookmaker": "Bovada",
+    "ev": -0.02113606340819013,
+    "odds": 1.71
+}, {
+    "team": "Vegas Golden Knights",
+    "bookmaker": "Bovada",
+    "ev": 0.028407047824523635,
+    "odds": 2.2
+}, {
+    "team": "Edmonton Oilers",
+    "bookmaker": "DraftKings",
+    "ev": -0.006211180124223781,
+    "odds": 1.6
+}, {
+    "team": "Los Angeles Kings",
+    "bookmaker": "DraftKings",
+    "ev": 0.0009624639076035724,
+    "odds": 2.4
+}, {
+    "team": "Edmonton Oilers",
+    "bookmaker": "MyBookie.ag",
+    "ev": -2.220446049250313e-16,
+    "odds": 1.61
+}, {
+    "team": "Los Angeles Kings",
+    "bookmaker": "MyBookie.ag",
+    "ev": -0.0532563362207249,
+    "odds": 2.27
+}, {
+    "team": "Edmonton Oilers",
+    "bookmaker": "Unibet",
+    "ev": -0.006211180124223781,
+    "odds": 1.6
+}, {
+    "team": "Los Angeles Kings",
+    "bookmaker": "Unibet",
+    "ev": -0.007378889958293167,
+    "odds": 2.38
+}, {
+    "team": "Edmonton Oilers",
+    "bookmaker": "BetRivers",
+    "ev": -0.006211180124223781,
+    "odds": 1.6
+}, {
+    "team": "Los Angeles Kings",
+    "bookmaker": "BetRivers",
+    "ev": -0.007378889958293167,
+    "odds": 2.38
+}, {
+    "team": "Edmonton Oilers",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.006211180124223392,
+    "odds": 1.62
+}, {
+    "team": "Los Angeles Kings",
+    "bookmaker": "BetOnline.ag",
+    "ev": 0.01347449470644868,
+    "odds": 2.43
+}, {
+    "team": "Edmonton Oilers",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.006211180124223392,
+    "odds": 1.62
+}, {
+    "team": "Los Angeles Kings",
+    "bookmaker": "LowVig.ag",
+    "ev": 0.01347449470644868,
+    "odds": 2.43
+}, {
+    "team": "Edmonton Oilers",
+    "bookmaker": "Caesars",
+    "ev": -2.220446049250313e-16,
+    "odds": 1.61
+}, {
+    "team": "Los Angeles Kings",
+    "bookmaker": "Caesars",
+    "ev": 0.0009624639076035724,
+    "odds": 2.4
+}, {
+    "team": "Edmonton Oilers",
+    "bookmaker": "BetUS",
+    "ev": 0.006211180124223392,
+    "odds": 1.62
+}, {
+    "team": "Los Angeles Kings",
+    "bookmaker": "BetUS",
+    "ev": 0.0009624639076035724,
+    "odds": 2.4
+}, {
+    "team": "Edmonton Oilers",
+    "bookmaker": "SuperBook",
+    "ev": 0.006211180124223392,
+    "odds": 1.62
+}, {
+    "team": "Los Angeles Kings",
+    "bookmaker": "SuperBook",
+    "ev": 0.0009624639076035724,
+    "odds": 2.4
+}, {
+    "team": "Edmonton Oilers",
+    "bookmaker": "FanDuel",
+    "ev": -2.220446049250313e-16,
+    "odds": 1.61
+}, {
+    "team": "Los Angeles Kings",
+    "bookmaker": "FanDuel",
+    "ev": -0.015720243824189795,
+    "odds": 2.36
+}, {
+    "team": "Edmonton Oilers",
+    "bookmaker": "BetMGM",
+    "ev": -2.220446049250313e-16,
+    "odds": 1.61
+}, {
+    "team": "Los Angeles Kings",
+    "bookmaker": "BetMGM",
+    "ev": 0.0009624639076035724,
+    "odds": 2.4
+}, {
+    "team": "Edmonton Oilers",
+    "bookmaker": "WynnBET",
+    "ev": -2.220446049250313e-16,
+    "odds": 1.61
+}, {
+    "team": "Los Angeles Kings",
+    "bookmaker": "WynnBET",
+    "ev": 0.042669233237087156,
+    "odds": 2.5
+}, {
+    "team": "Edmonton Oilers",
+    "bookmaker": "Bovada",
+    "ev": -0.006211180124223781,
+    "odds": 1.6
+}, {
+    "team": "Los Angeles Kings",
+    "bookmaker": "Bovada",
+    "ev": 0.009303817773500311,
+    "odds": 2.42
+}]

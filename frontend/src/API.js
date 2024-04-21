@@ -1,36 +1,12 @@
-export async function get(url) {
-    const request = {
+export async function getBets() {
+    //set access control allow origin header
+    const response = await fetch('http://bitcamp.alecagayan.com/api', {
         method: 'GET',
         headers: {
+            'Access-Control-Allow-Origin': '*',
             'Content-Type': 'application/json'
         }
-    };
-
-    try {
-        const response = await fetch(url, request);
-        return await response.json();
-    } catch (error) {
-        console.error('Error:', error);
-    }
-}
-
-export async function post(url, data) {
-    const request = {
-        method: 'POST',
-        headers: {
-            'Content-Type': 'application/json'
-        },
-        body: JSON.stringify(data)
-    };
-
-    try {
-        const response = await fetch(url, request);
-        return await response.json();
-    } catch (error) {
-        console.error('Error:', error);
-    }
-}
-
-export async function getBets() {
-    return get(process.env.REACT_APP_API_URL + '/bets');
+    });
+    const data = await response.json();
+    return data;
 }
