@@ -1,7 +1,7 @@
 import json
 import requests
 
-api_key = "2fd5fee9325f737ec459adc38a559749"
+api_key = "X"
 
 def get_lines_baseball():
     # get the odds for baseball games today

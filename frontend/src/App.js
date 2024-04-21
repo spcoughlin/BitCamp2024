@@ -1,25 +1,41 @@
-import logo from './logo.svg';
+import React, { useEffect } from 'react';
+import { BrowserRouter, Route, Routes, Navigate } from 'react-router-dom';
 import './App.css';
+import Home from './pages/Home';
+import About from './pages/About';
+import MainBar from './components/Navbar';
 
-function App() {
+
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+
+
+export default function App() {
+  useEffect(() => {
+    document.title = "Bit Camp 2024"
+  }, [])
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BrowserRouter>
+        <Routes>
+          <Route index element = { 
+            <div>
+              <MainBar />
+              <Home/>
+            </div>
+
+          } />
+          <Route path="/about" element = {
+            <div>
+              <MainBar />
+              <About/>
+            </div>
+          } />
+          <Route path="*" element = {
+            <Navigate to="/" />
+          } />
+        </Routes>
+    </BrowserRouter>
   );
 }
 
-export default App;
