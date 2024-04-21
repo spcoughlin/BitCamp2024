@@ -32,8 +32,8 @@ class Home extends React.Component {
     }
 
     async componentDidMount() {
-        // const bets = await getBets();
-        const bets = require('./sample_response.json')
+        const bets = await getBets();
+        // const bets = require('./sample_response.json')
 
         // if environment is development, wait 3 seconds
         if (process.env.NODE_ENV === 'development') {
